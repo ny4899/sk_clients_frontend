@@ -1,0 +1,86 @@
+@use "common/variables.scss" as v;
+@import "common/mixins.scss";
+
+.dis__none {
+  display: none !important;
+}
+
+.dis__block {
+  display: block !important;
+}
+
+.site__warpper {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.nav__wrapper {
+  width: 100%;
+  height: v.$navHeight;
+}
+
+.hide__nav {
+  position: absolute;
+  top: v.$navHeight;
+  left: v.$sideBarWidthNegitive;
+  transition: all 0.3s;
+}
+
+.sidebar__wrapper {
+  width: v.$sideBarWidth;
+  height: calc(100vh - v.$navHeight );
+  overflow-y: scroll;
+  @include scrollbars;
+}
+
+.linkStyle {
+  margin: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.main__wrapper {
+  width: calc(100% - v.$sideBarWidth);
+  height: calc(100vh - v.$navHeight);
+  overflow-y: scroll;
+  background-color: v.$bodybg ;
+  @include scrollbars;
+}
+
+.main__wrapper__client {
+  width: 100%;
+  height: calc(100vh - v.$navHeight);
+  overflow-y: scroll;
+  background-color: v.$bodybg ;
+  @include scrollbars;
+}
+
+.container__full {
+  width: calc(100%);
+}
+
+// data container 
+.data__wrapper {
+  background-color: v.$white;
+}
+
+@media only screen and (max-width: 992px) {
+  .sidebar__wrapper {
+    position: absolute;
+    top: v.$navHeight;
+    left: v.$sideBarWidthNegitive;
+    transition: all 0.3s;
+  }
+
+  .hide__nav {
+    position: absolute;
+    left: 0px;
+  }
+
+  .main__wrapper {
+    width: calc(100%);
+  }
+}

@@ -1,0 +1,3202 @@
+[
+  {
+    "id": 1,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "JP",
+    "Live_Since": "2021/06/24",
+    "Last_Data_Recieved": "2021/09/25"
+  },
+  {
+    "id": 2,
+    "Industry": "Property-Casualty Insurers",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2020/02/28",
+    "Last_Data_Recieved": "2022/01/19"
+  },
+  {
+    "id": 3,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2020/01/25",
+    "Last_Data_Recieved": "2022/06/04"
+  },
+  {
+    "id": 4,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": false,
+    "Device": "TH",
+    "Live_Since": "2022/01/16",
+    "Last_Data_Recieved": "2022/03/08"
+  },
+  {
+    "id": 5,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "SE",
+    "Live_Since": "2021/05/04",
+    "Last_Data_Recieved": "2022/08/01"
+  },
+  {
+    "id": 6,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "PH",
+    "Live_Since": "2022/02/07",
+    "Last_Data_Recieved": "2021/12/05"
+  },
+  {
+    "id": 7,
+    "Industry": "Major Banks",
+    "Status": false,
+    "Device": "GB",
+    "Live_Since": "2021/05/23",
+    "Last_Data_Recieved": "2021/12/25"
+  },
+  {
+    "id": 8,
+    "Industry": "RETAIL: Building Materials",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2022/04/10",
+    "Last_Data_Recieved": "2022/03/13"
+  },
+  {
+    "id": 9,
+    "Industry": "Biotechnology: Laboratory Analytical Instruments",
+    "Status": true,
+    "Device": "JP",
+    "Live_Since": "2020/11/12",
+    "Last_Data_Recieved": "2021/12/02"
+  },
+  {
+    "id": 10,
+    "Industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+    "Status": true,
+    "Device": "FR",
+    "Live_Since": "2021/03/18",
+    "Last_Data_Recieved": "2022/03/02"
+  },
+  {
+    "id": 11,
+    "Industry": "Specialty Chemicals",
+    "Status": false,
+    "Device": "TH",
+    "Live_Since": "2022/05/25",
+    "Last_Data_Recieved": "2021/09/18"
+  },
+  {
+    "id": 12,
+    "Industry": "Medical/Nursing Services",
+    "Status": false,
+    "Device": "ET",
+    "Live_Since": "2021/10/11",
+    "Last_Data_Recieved": "2021/11/12"
+  },
+  {
+    "id": 13,
+    "Industry": "RETAIL: Building Materials",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2021/11/29",
+    "Last_Data_Recieved": "2022/07/25"
+  },
+  {
+    "id": 14,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2022/07/20",
+    "Last_Data_Recieved": "2021/12/02"
+  },
+  {
+    "id": 15,
+    "Industry": "Oil & Gas Production",
+    "Status": false,
+    "Device": "TZ",
+    "Live_Since": "2021/09/30",
+    "Last_Data_Recieved": "2022/04/19"
+  },
+  {
+    "id": 16,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "BR",
+    "Live_Since": "2020/02/17",
+    "Last_Data_Recieved": "2022/04/12"
+  },
+  {
+    "id": 17,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": true,
+    "Device": "AL",
+    "Live_Since": "2021/11/12",
+    "Last_Data_Recieved": "2021/11/29"
+  },
+  {
+    "id": 18,
+    "Industry": "Semiconductors",
+    "Status": true,
+    "Device": "BG",
+    "Live_Since": "2020/10/06",
+    "Last_Data_Recieved": "2022/05/12"
+  },
+  {
+    "id": 19,
+    "Industry": "Electrical Products",
+    "Status": true,
+    "Device": "ID",
+    "Live_Since": "2022/07/03",
+    "Last_Data_Recieved": "2021/08/29"
+  },
+  {
+    "id": 20,
+    "Industry": "Major Banks",
+    "Status": false,
+    "Device": "AM",
+    "Live_Since": "2022/05/04",
+    "Last_Data_Recieved": "2021/11/19"
+  },
+  {
+    "id": 21,
+    "Industry": "Radio And Television Broadcasting And Communications Equipment",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2022/07/13",
+    "Last_Data_Recieved": "2022/03/12"
+  },
+  {
+    "id": 22,
+    "Industry": "Home Furnishings",
+    "Status": true,
+    "Device": "PH",
+    "Live_Since": "2022/04/06",
+    "Last_Data_Recieved": "2021/12/01"
+  },
+  {
+    "id": 23,
+    "Industry": "Major Banks",
+    "Status": false,
+    "Device": "LB",
+    "Live_Since": "2020/07/19",
+    "Last_Data_Recieved": "2022/03/06"
+  },
+  {
+    "id": 24,
+    "Industry": "Business Services",
+    "Status": true,
+    "Device": "PH",
+    "Live_Since": "2021/10/13",
+    "Last_Data_Recieved": "2021/10/23"
+  },
+  {
+    "id": 25,
+    "Industry": "Other Consumer Services",
+    "Status": false,
+    "Device": "IR",
+    "Live_Since": "2021/02/14",
+    "Last_Data_Recieved": "2022/02/16"
+  },
+  {
+    "id": 26,
+    "Industry": "EDP Services",
+    "Status": false,
+    "Device": "VN",
+    "Live_Since": "2020/04/29",
+    "Last_Data_Recieved": "2022/01/23"
+  },
+  {
+    "id": 27,
+    "Industry": "Broadcasting",
+    "Status": true,
+    "Device": "HR",
+    "Live_Since": "2021/04/09",
+    "Last_Data_Recieved": "2022/03/29"
+  },
+  {
+    "id": 28,
+    "Industry": "Business Services",
+    "Status": true,
+    "Device": "PT",
+    "Live_Since": "2020/03/12",
+    "Last_Data_Recieved": "2022/07/04"
+  },
+  {
+    "id": 29,
+    "Industry": "Professional Services",
+    "Status": true,
+    "Device": "PL",
+    "Live_Since": "2020/02/23",
+    "Last_Data_Recieved": "2022/05/18"
+  },
+  {
+    "id": 30,
+    "Industry": "Computer Communications Equipment",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2020/01/02",
+    "Last_Data_Recieved": "2022/02/01"
+  },
+  {
+    "id": 31,
+    "Industry": "Banks",
+    "Status": false,
+    "Device": "BR",
+    "Live_Since": "2020/07/03",
+    "Last_Data_Recieved": "2022/03/14"
+  },
+  {
+    "id": 32,
+    "Industry": "Industrial Machinery/Components",
+    "Status": true,
+    "Device": "PL",
+    "Live_Since": "2022/06/11",
+    "Last_Data_Recieved": "2021/08/20"
+  },
+  {
+    "id": 33,
+    "Industry": "Medical/Dental Instruments",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2020/02/11",
+    "Last_Data_Recieved": "2022/08/07"
+  },
+  {
+    "id": 34,
+    "Industry": "Major Banks",
+    "Status": true,
+    "Device": "ID",
+    "Live_Since": "2021/12/22",
+    "Last_Data_Recieved": "2021/11/19"
+  },
+  {
+    "id": 35,
+    "Industry": "Metal Fabrications",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2021/04/19",
+    "Last_Data_Recieved": "2022/02/26"
+  },
+  {
+    "id": 36,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "LY",
+    "Live_Since": "2021/09/24",
+    "Last_Data_Recieved": "2022/07/19"
+  },
+  {
+    "id": 37,
+    "Industry": "Television Services",
+    "Status": false,
+    "Device": "CA",
+    "Live_Since": "2021/01/22",
+    "Last_Data_Recieved": "2021/09/23"
+  },
+  {
+    "id": 38,
+    "Industry": "EDP Services",
+    "Status": false,
+    "Device": "US",
+    "Live_Since": "2020/06/20",
+    "Last_Data_Recieved": "2021/09/07"
+  },
+  {
+    "id": 39,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "PE",
+    "Live_Since": "2022/03/22",
+    "Last_Data_Recieved": "2022/03/15"
+  },
+  {
+    "id": 40,
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2021/10/20",
+    "Last_Data_Recieved": "2022/01/24"
+  },
+  {
+    "id": 41,
+    "Industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+    "Status": true,
+    "Device": "AR",
+    "Live_Since": "2021/03/25",
+    "Last_Data_Recieved": "2022/06/22"
+  },
+  {
+    "id": 42,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "JP",
+    "Live_Since": "2020/01/22",
+    "Last_Data_Recieved": "2022/06/15"
+  },
+  {
+    "id": 43,
+    "Industry": "Computer Communications Equipment",
+    "Status": true,
+    "Device": "MU",
+    "Live_Since": "2021/05/09",
+    "Last_Data_Recieved": "2021/10/12"
+  },
+  {
+    "id": 44,
+    "Industry": "Major Pharmaceuticals",
+    "Status": false,
+    "Device": "CA",
+    "Live_Since": "2020/05/24",
+    "Last_Data_Recieved": "2022/03/29"
+  },
+  {
+    "id": 45,
+    "Industry": "Medical/Dental Instruments",
+    "Status": false,
+    "Device": "AL",
+    "Live_Since": "2021/03/14",
+    "Last_Data_Recieved": "2022/07/08"
+  },
+  {
+    "id": 46,
+    "Industry": "Industrial Machinery/Components",
+    "Status": false,
+    "Device": "PH",
+    "Live_Since": "2020/12/27",
+    "Last_Data_Recieved": "2021/11/17"
+  },
+  {
+    "id": 47,
+    "Industry": "Oil & Gas Production",
+    "Status": true,
+    "Device": "CF",
+    "Live_Since": "2021/08/25",
+    "Last_Data_Recieved": "2021/09/24"
+  },
+  {
+    "id": 48,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2022/02/09",
+    "Last_Data_Recieved": "2022/08/12"
+  },
+  {
+    "id": 49,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2022/04/29",
+    "Last_Data_Recieved": "2022/05/21"
+  },
+  {
+    "id": 50,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "FR",
+    "Live_Since": "2021/01/10",
+    "Last_Data_Recieved": "2022/08/01"
+  },
+  {
+    "id": 51,
+    "Industry": "Radio And Television Broadcasting And Communications Equipment",
+    "Status": false,
+    "Device": "TH",
+    "Live_Since": "2020/09/13",
+    "Last_Data_Recieved": "2021/10/23"
+  },
+  {
+    "id": 52,
+    "Industry": "Auto Manufacturing",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2021/05/18",
+    "Last_Data_Recieved": "2022/02/27"
+  },
+  {
+    "id": 53,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2022/02/01",
+    "Last_Data_Recieved": "2021/10/22"
+  },
+  {
+    "id": 54,
+    "Industry": "Telecommunications Equipment",
+    "Status": false,
+    "Device": "PE",
+    "Live_Since": "2022/01/18",
+    "Last_Data_Recieved": "2022/03/25"
+  },
+  {
+    "id": 55,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": false,
+    "Device": "TH",
+    "Live_Since": "2020/04/23",
+    "Last_Data_Recieved": "2022/07/19"
+  },
+  {
+    "id": 56,
+    "Industry": "Major Banks",
+    "Status": false,
+    "Device": "PL",
+    "Live_Since": "2020/11/13",
+    "Last_Data_Recieved": "2021/12/18"
+  },
+  {
+    "id": 57,
+    "Industry": "Miscellaneous",
+    "Status": true,
+    "Device": "US",
+    "Live_Since": "2021/12/27",
+    "Last_Data_Recieved": "2021/10/12"
+  },
+  {
+    "id": 58,
+    "Industry": "Biotechnology: Commercial Physical & Biological Resarch",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2019/09/08",
+    "Last_Data_Recieved": "2022/02/20"
+  },
+  {
+    "id": 59,
+    "Industry": "Engineering & Construction",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2021/07/02",
+    "Last_Data_Recieved": "2022/07/18"
+  },
+  {
+    "id": 60,
+    "Industry": "Major Banks",
+    "Status": true,
+    "Device": "GR",
+    "Live_Since": "2020/12/13",
+    "Last_Data_Recieved": "2022/06/26"
+  },
+  {
+    "id": 61,
+    "Industry": "Major Chemicals",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2021/01/18",
+    "Last_Data_Recieved": "2022/04/15"
+  },
+  {
+    "id": 62,
+    "Industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+    "Status": false,
+    "Device": "YE",
+    "Live_Since": "2022/01/04",
+    "Last_Data_Recieved": "2021/11/24"
+  },
+  {
+    "id": 63,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2021/08/16",
+    "Last_Data_Recieved": "2021/09/07"
+  },
+  {
+    "id": 64,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": false,
+    "Device": "FR",
+    "Live_Since": "2021/06/11",
+    "Last_Data_Recieved": "2021/12/16"
+  },
+  {
+    "id": 65,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": false,
+    "Device": "RU",
+    "Live_Since": "2021/04/15",
+    "Last_Data_Recieved": "2021/10/19"
+  },
+  {
+    "id": 66,
+    "Industry": "Computer peripheral equipment",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2021/08/14",
+    "Last_Data_Recieved": "2022/02/11"
+  },
+  {
+    "id": 67,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "DO",
+    "Live_Since": "2019/10/15",
+    "Last_Data_Recieved": "2022/05/29"
+  },
+  {
+    "id": 68,
+    "Industry": "Major Banks",
+    "Status": true,
+    "Device": "ID",
+    "Live_Since": "2021/12/21",
+    "Last_Data_Recieved": "2022/02/06"
+  },
+  {
+    "id": 69,
+    "Industry": "Property-Casualty Insurers",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2022/04/01",
+    "Last_Data_Recieved": "2022/07/10"
+  },
+  {
+    "id": 70,
+    "Industry": "Major Banks",
+    "Status": false,
+    "Device": "IR",
+    "Live_Since": "2020/07/19",
+    "Last_Data_Recieved": "2022/05/11"
+  },
+  {
+    "id": 71,
+    "Industry": "Electronic Components",
+    "Status": false,
+    "Device": "PH",
+    "Live_Since": "2020/10/07",
+    "Last_Data_Recieved": "2021/11/08"
+  },
+  {
+    "id": 72,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2019/12/25",
+    "Last_Data_Recieved": "2022/03/31"
+  },
+  {
+    "id": 73,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": false,
+    "Device": "US",
+    "Live_Since": "2019/10/24",
+    "Last_Data_Recieved": "2021/08/30"
+  },
+  {
+    "id": 74,
+    "Industry": "Commercial Banks",
+    "Status": true,
+    "Device": "KR",
+    "Live_Since": "2020/05/19",
+    "Last_Data_Recieved": "2022/04/01"
+  },
+  {
+    "id": 75,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "ID",
+    "Live_Since": "2020/12/28",
+    "Last_Data_Recieved": "2022/03/31"
+  },
+  {
+    "id": 76,
+    "Industry": "Other Pharmaceuticals",
+    "Status": false,
+    "Device": "SE",
+    "Live_Since": "2020/09/22",
+    "Last_Data_Recieved": "2021/10/23"
+  },
+  {
+    "id": 77,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2022/02/09",
+    "Last_Data_Recieved": "2022/08/11"
+  },
+  {
+    "id": 78,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2021/10/28",
+    "Last_Data_Recieved": "2022/04/19"
+  },
+  {
+    "id": 79,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "US",
+    "Live_Since": "2022/02/25",
+    "Last_Data_Recieved": "2022/08/01"
+  },
+  {
+    "id": 80,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2021/05/23",
+    "Last_Data_Recieved": "2022/02/24"
+  },
+  {
+    "id": 81,
+    "Industry": "Industrial Specialties",
+    "Status": true,
+    "Device": "PT",
+    "Live_Since": "2021/06/13",
+    "Last_Data_Recieved": "2022/05/11"
+  },
+  {
+    "id": 82,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "KZ",
+    "Live_Since": "2020/06/14",
+    "Last_Data_Recieved": "2021/10/22"
+  },
+  {
+    "id": 83,
+    "Industry": "Major Pharmaceuticals",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2021/09/06",
+    "Last_Data_Recieved": "2022/03/10"
+  },
+  {
+    "id": 84,
+    "Industry": "Steel/Iron Ore",
+    "Status": false,
+    "Device": "RU",
+    "Live_Since": "2021/07/24",
+    "Last_Data_Recieved": "2021/09/23"
+  },
+  {
+    "id": 85,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2021/06/01",
+    "Last_Data_Recieved": "2022/06/16"
+  },
+  {
+    "id": 86,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "TZ",
+    "Live_Since": "2022/06/12",
+    "Last_Data_Recieved": "2021/08/20"
+  },
+  {
+    "id": 87,
+    "Industry": "Other Consumer Services",
+    "Status": true,
+    "Device": "FR",
+    "Live_Since": "2021/11/07",
+    "Last_Data_Recieved": "2022/03/26"
+  },
+  {
+    "id": 88,
+    "Industry": "Packaged Foods",
+    "Status": false,
+    "Device": "AL",
+    "Live_Since": "2022/02/27",
+    "Last_Data_Recieved": "2022/06/17"
+  },
+  {
+    "id": 89,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "PH",
+    "Live_Since": "2021/01/28",
+    "Last_Data_Recieved": "2022/01/17"
+  },
+  {
+    "id": 90,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "PE",
+    "Live_Since": "2021/03/26",
+    "Last_Data_Recieved": "2022/06/07"
+  },
+  {
+    "id": 91,
+    "Industry": "Finance: Consumer Services",
+    "Status": false,
+    "Device": "US",
+    "Live_Since": "2020/03/21",
+    "Last_Data_Recieved": "2022/05/13"
+  },
+  {
+    "id": 92,
+    "Industry": "Major Chemicals",
+    "Status": true,
+    "Device": "BR",
+    "Live_Since": "2020/09/14",
+    "Last_Data_Recieved": "2022/01/08"
+  },
+  {
+    "id": 93,
+    "Industry": "Biotechnology: Laboratory Analytical Instruments",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2021/06/07",
+    "Last_Data_Recieved": "2022/02/17"
+  },
+  {
+    "id": 94,
+    "Industry": "Major Banks",
+    "Status": true,
+    "Device": "IR",
+    "Live_Since": "2020/02/14",
+    "Last_Data_Recieved": "2022/03/17"
+  },
+  {
+    "id": 95,
+    "Industry": "Life Insurance",
+    "Status": true,
+    "Device": "AF",
+    "Live_Since": "2020/11/29",
+    "Last_Data_Recieved": "2021/11/26"
+  },
+  {
+    "id": 96,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2021/12/26",
+    "Last_Data_Recieved": "2022/01/09"
+  },
+  {
+    "id": 97,
+    "Industry": "Textiles",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2020/12/23",
+    "Last_Data_Recieved": "2021/12/26"
+  },
+  {
+    "id": 98,
+    "Industry": "Electrical Products",
+    "Status": true,
+    "Device": "GR",
+    "Live_Since": "2020/12/28",
+    "Last_Data_Recieved": "2022/06/06"
+  },
+  {
+    "id": 99,
+    "Industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+    "Status": true,
+    "Device": "UA",
+    "Live_Since": "2020/12/03",
+    "Last_Data_Recieved": "2022/01/23"
+  },
+  {
+    "id": 100,
+    "Industry": "Plastic Products",
+    "Status": false,
+    "Device": "PE",
+    "Live_Since": "2022/07/10",
+    "Last_Data_Recieved": "2022/05/25"
+  },
+  {
+    "id": 101,
+    "Industry": "Medical/Dental Instruments",
+    "Status": true,
+    "Device": "MX",
+    "Live_Since": "2021/09/10",
+    "Last_Data_Recieved": "2022/01/12"
+  },
+  {
+    "id": 102,
+    "Industry": "Major Pharmaceuticals",
+    "Status": false,
+    "Device": "UA",
+    "Live_Since": "2021/03/05",
+    "Last_Data_Recieved": "2022/05/21"
+  },
+  {
+    "id": 103,
+    "Industry": "Commercial Banks",
+    "Status": false,
+    "Device": "PL",
+    "Live_Since": "2019/10/09",
+    "Last_Data_Recieved": "2022/05/01"
+  },
+  {
+    "id": 104,
+    "Industry": "Major Pharmaceuticals",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2020/04/22",
+    "Last_Data_Recieved": "2022/01/06"
+  },
+  {
+    "id": 105,
+    "Industry": "Computer peripheral equipment",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2020/03/02",
+    "Last_Data_Recieved": "2021/11/10"
+  },
+  {
+    "id": 106,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2021/05/17",
+    "Last_Data_Recieved": "2022/05/22"
+  },
+  {
+    "id": 107,
+    "Industry": "Real Estate",
+    "Status": false,
+    "Device": "VN",
+    "Live_Since": "2022/06/24",
+    "Last_Data_Recieved": "2021/11/04"
+  },
+  {
+    "id": 108,
+    "Industry": "Military/Government/Technical",
+    "Status": false,
+    "Device": "PT",
+    "Live_Since": "2019/11/26",
+    "Last_Data_Recieved": "2021/12/30"
+  },
+  {
+    "id": 109,
+    "Industry": "Multi-Sector Companies",
+    "Status": true,
+    "Device": "CZ",
+    "Live_Since": "2021/04/20",
+    "Last_Data_Recieved": "2021/09/26"
+  },
+  {
+    "id": 110,
+    "Industry": "Business Services",
+    "Status": false,
+    "Device": "PT",
+    "Live_Since": "2021/02/06",
+    "Last_Data_Recieved": "2021/11/08"
+  },
+  {
+    "id": 111,
+    "Industry": "Telecommunications Equipment",
+    "Status": false,
+    "Device": "BR",
+    "Live_Since": "2021/02/03",
+    "Last_Data_Recieved": "2022/03/27"
+  },
+  {
+    "id": 112,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": false,
+    "Device": "IQ",
+    "Live_Since": "2022/06/03",
+    "Last_Data_Recieved": "2022/08/05"
+  },
+  {
+    "id": 113,
+    "Industry": "Major Pharmaceuticals",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2021/10/31",
+    "Last_Data_Recieved": "2021/10/20"
+  },
+  {
+    "id": 114,
+    "Industry": "Oil Refining/Marketing",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2021/07/26",
+    "Last_Data_Recieved": "2022/07/24"
+  },
+  {
+    "id": 115,
+    "Industry": "Newspapers/Magazines",
+    "Status": true,
+    "Device": "PT",
+    "Live_Since": "2019/09/23",
+    "Last_Data_Recieved": "2022/02/03"
+  },
+  {
+    "id": 116,
+    "Industry": "Major Banks",
+    "Status": false,
+    "Device": "GA",
+    "Live_Since": "2020/07/31",
+    "Last_Data_Recieved": "2021/10/21"
+  },
+  {
+    "id": 117,
+    "Industry": "Major Pharmaceuticals",
+    "Status": true,
+    "Device": "ID",
+    "Live_Since": "2020/01/25",
+    "Last_Data_Recieved": "2022/02/04"
+  },
+  {
+    "id": 118,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "ES",
+    "Live_Since": "2019/11/28",
+    "Last_Data_Recieved": "2021/09/13"
+  },
+  {
+    "id": 119,
+    "Industry": "Telecommunications Equipment",
+    "Status": true,
+    "Device": "IR",
+    "Live_Since": "2021/08/29",
+    "Last_Data_Recieved": "2021/09/18"
+  },
+  {
+    "id": 120,
+    "Industry": "Home Furnishings",
+    "Status": true,
+    "Device": "BR",
+    "Live_Since": "2021/08/18",
+    "Last_Data_Recieved": "2022/06/01"
+  },
+  {
+    "id": 121,
+    "Industry": "Telecommunications Equipment",
+    "Status": true,
+    "Device": "ID",
+    "Live_Since": "2019/12/16",
+    "Last_Data_Recieved": "2022/03/19"
+  },
+  {
+    "id": 122,
+    "Industry": "EDP Services",
+    "Status": true,
+    "Device": "PH",
+    "Live_Since": "2021/04/01",
+    "Last_Data_Recieved": "2021/10/30"
+  },
+  {
+    "id": 123,
+    "Industry": "Industrial Machinery/Components",
+    "Status": false,
+    "Device": "PT",
+    "Live_Since": "2020/03/19",
+    "Last_Data_Recieved": "2021/09/09"
+  },
+  {
+    "id": 124,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "SE",
+    "Live_Since": "2020/12/12",
+    "Last_Data_Recieved": "2021/12/10"
+  },
+  {
+    "id": 125,
+    "Industry": "Investment Bankers/Brokers/Service",
+    "Status": false,
+    "Device": "MU",
+    "Live_Since": "2021/02/26",
+    "Last_Data_Recieved": "2022/04/09"
+  },
+  {
+    "id": 126,
+    "Industry": "Major Banks",
+    "Status": true,
+    "Device": "KZ",
+    "Live_Since": "2021/08/31",
+    "Last_Data_Recieved": "2021/11/24"
+  },
+  {
+    "id": 127,
+    "Industry": "Recreational Products/Toys",
+    "Status": true,
+    "Device": "CR",
+    "Live_Since": "2022/07/01",
+    "Last_Data_Recieved": "2022/08/12"
+  },
+  {
+    "id": 128,
+    "Industry": "Steel/Iron Ore",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2019/08/29",
+    "Last_Data_Recieved": "2022/05/11"
+  },
+  {
+    "id": 129,
+    "Industry": "Computer Software: Prepackaged Software",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2020/07/03",
+    "Last_Data_Recieved": "2022/03/06"
+  },
+  {
+    "id": 130,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "CZ",
+    "Live_Since": "2019/08/30",
+    "Last_Data_Recieved": "2022/03/20"
+  },
+  {
+    "id": 131,
+    "Industry": "EDP Services",
+    "Status": false,
+    "Device": "PL",
+    "Live_Since": "2020/12/11",
+    "Last_Data_Recieved": "2022/03/10"
+  },
+  {
+    "id": 132,
+    "Industry": "Computer Software: Programming, Data Processing",
+    "Status": false,
+    "Device": "RU",
+    "Live_Since": "2022/01/16",
+    "Last_Data_Recieved": "2021/11/07"
+  },
+  {
+    "id": 133,
+    "Industry": "Oil & Gas Production",
+    "Status": false,
+    "Device": "DE",
+    "Live_Since": "2019/09/14",
+    "Last_Data_Recieved": "2022/01/25"
+  },
+  {
+    "id": 134,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "LU",
+    "Live_Since": "2021/04/10",
+    "Last_Data_Recieved": "2022/06/16"
+  },
+  {
+    "id": 135,
+    "Industry": "EDP Services",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2020/04/17",
+    "Last_Data_Recieved": "2022/01/22"
+  },
+  {
+    "id": 136,
+    "Industry": "Computer Software: Prepackaged Software",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2020/11/04",
+    "Last_Data_Recieved": "2021/11/30"
+  },
+  {
+    "id": 137,
+    "Industry": "Precious Metals",
+    "Status": true,
+    "Device": "PL",
+    "Live_Since": "2019/10/28",
+    "Last_Data_Recieved": "2022/08/12"
+  },
+  {
+    "id": 138,
+    "Industry": "Semiconductors",
+    "Status": true,
+    "Device": "BG",
+    "Live_Since": "2020/01/26",
+    "Last_Data_Recieved": "2021/10/14"
+  },
+  {
+    "id": 139,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "BR",
+    "Live_Since": "2020/08/16",
+    "Last_Data_Recieved": "2022/07/26"
+  },
+  {
+    "id": 140,
+    "Industry": "Semiconductors",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2019/10/07",
+    "Last_Data_Recieved": "2021/11/14"
+  },
+  {
+    "id": 141,
+    "Industry": "Major Pharmaceuticals",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2020/07/10",
+    "Last_Data_Recieved": "2022/06/21"
+  },
+  {
+    "id": 142,
+    "Industry": "Industrial Specialties",
+    "Status": true,
+    "Device": "ID",
+    "Live_Since": "2021/11/25",
+    "Last_Data_Recieved": "2022/02/08"
+  },
+  {
+    "id": 143,
+    "Industry": "Tobacco",
+    "Status": true,
+    "Device": "PH",
+    "Live_Since": "2020/11/18",
+    "Last_Data_Recieved": "2021/09/20"
+  },
+  {
+    "id": 144,
+    "Industry": "Computer Communications Equipment",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2021/12/03",
+    "Last_Data_Recieved": "2022/01/13"
+  },
+  {
+    "id": 145,
+    "Industry": "Major Banks",
+    "Status": false,
+    "Device": "FR",
+    "Live_Since": "2020/12/07",
+    "Last_Data_Recieved": "2022/07/20"
+  },
+  {
+    "id": 146,
+    "Industry": "Beverages (Production/Distribution)",
+    "Status": true,
+    "Device": "PH",
+    "Live_Since": "2021/06/06",
+    "Last_Data_Recieved": "2022/04/17"
+  },
+  {
+    "id": 147,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2021/04/06",
+    "Last_Data_Recieved": "2022/01/08"
+  },
+  {
+    "id": 148,
+    "Industry": "Industrial Machinery/Components",
+    "Status": true,
+    "Device": "CO",
+    "Live_Since": "2021/06/14",
+    "Last_Data_Recieved": "2022/05/02"
+  },
+  {
+    "id": 149,
+    "Industry": "Advertising",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2019/10/22",
+    "Last_Data_Recieved": "2022/01/29"
+  },
+  {
+    "id": 150,
+    "Industry": "Savings Institutions",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2022/01/18",
+    "Last_Data_Recieved": "2022/04/02"
+  },
+  {
+    "id": 151,
+    "Industry": "Hospital/Nursing Management",
+    "Status": true,
+    "Device": "SY",
+    "Live_Since": "2021/06/04",
+    "Last_Data_Recieved": "2021/12/14"
+  },
+  {
+    "id": 152,
+    "Industry": "Major Pharmaceuticals",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2021/09/27",
+    "Last_Data_Recieved": "2022/05/01"
+  },
+  {
+    "id": 153,
+    "Industry": "Packaged Foods",
+    "Status": false,
+    "Device": "PL",
+    "Live_Since": "2021/02/06",
+    "Last_Data_Recieved": "2021/11/26"
+  },
+  {
+    "id": 154,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "PL",
+    "Live_Since": "2021/01/20",
+    "Last_Data_Recieved": "2022/04/20"
+  },
+  {
+    "id": 155,
+    "Industry": "Computer Software: Programming, Data Processing",
+    "Status": true,
+    "Device": "LY",
+    "Live_Since": "2022/03/18",
+    "Last_Data_Recieved": "2021/12/18"
+  },
+  {
+    "id": 156,
+    "Industry": "Automotive Aftermarket",
+    "Status": true,
+    "Device": "CA",
+    "Live_Since": "2020/06/04",
+    "Last_Data_Recieved": "2022/06/14"
+  },
+  {
+    "id": 157,
+    "Industry": "Major Pharmaceuticals",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2021/05/06",
+    "Last_Data_Recieved": "2022/02/13"
+  },
+  {
+    "id": 158,
+    "Industry": "Air Freight/Delivery Services",
+    "Status": false,
+    "Device": "US",
+    "Live_Since": "2021/02/10",
+    "Last_Data_Recieved": "2022/03/26"
+  },
+  {
+    "id": 159,
+    "Industry": "Major Banks",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2019/11/18",
+    "Last_Data_Recieved": "2021/08/23"
+  },
+  {
+    "id": 160,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "ID",
+    "Live_Since": "2021/03/30",
+    "Last_Data_Recieved": "2022/08/14"
+  },
+  {
+    "id": 161,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": true,
+    "Device": "ID",
+    "Live_Since": "2021/01/01",
+    "Last_Data_Recieved": "2022/03/21"
+  },
+  {
+    "id": 162,
+    "Industry": "Oil & Gas Production",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2021/06/22",
+    "Last_Data_Recieved": "2022/02/14"
+  },
+  {
+    "id": 163,
+    "Industry": "Diversified Commercial Services",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2021/06/11",
+    "Last_Data_Recieved": "2022/02/23"
+  },
+  {
+    "id": 164,
+    "Industry": "Business Services",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2020/12/28",
+    "Last_Data_Recieved": "2021/09/03"
+  },
+  {
+    "id": 165,
+    "Industry": "Oil & Gas Production",
+    "Status": true,
+    "Device": "PE",
+    "Live_Since": "2020/04/01",
+    "Last_Data_Recieved": "2022/07/06"
+  },
+  {
+    "id": 166,
+    "Industry": "Business Services",
+    "Status": false,
+    "Device": "AO",
+    "Live_Since": "2020/02/03",
+    "Last_Data_Recieved": "2022/04/01"
+  },
+  {
+    "id": 167,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2021/04/03",
+    "Last_Data_Recieved": "2021/08/30"
+  },
+  {
+    "id": 168,
+    "Industry": "Major Pharmaceuticals",
+    "Status": true,
+    "Device": "CZ",
+    "Live_Since": "2020/07/07",
+    "Last_Data_Recieved": "2022/02/17"
+  },
+  {
+    "id": 169,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2019/12/25",
+    "Last_Data_Recieved": "2022/04/23"
+  },
+  {
+    "id": 170,
+    "Industry": "Auto Manufacturing",
+    "Status": true,
+    "Device": "UA",
+    "Live_Since": "2021/12/19",
+    "Last_Data_Recieved": "2022/06/21"
+  },
+  {
+    "id": 171,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2022/07/03",
+    "Last_Data_Recieved": "2022/08/12"
+  },
+  {
+    "id": 172,
+    "Industry": "Packaged Foods",
+    "Status": true,
+    "Device": "BR",
+    "Live_Since": "2021/03/25",
+    "Last_Data_Recieved": "2021/11/30"
+  },
+  {
+    "id": 173,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "TJ",
+    "Live_Since": "2021/11/20",
+    "Last_Data_Recieved": "2022/01/20"
+  },
+  {
+    "id": 174,
+    "Industry": "Industrial Specialties",
+    "Status": true,
+    "Device": "CO",
+    "Live_Since": "2020/11/25",
+    "Last_Data_Recieved": "2021/09/20"
+  },
+  {
+    "id": 175,
+    "Industry": "Major Banks",
+    "Status": true,
+    "Device": "BR",
+    "Live_Since": "2019/10/02",
+    "Last_Data_Recieved": "2022/05/30"
+  },
+  {
+    "id": 176,
+    "Industry": "Oil & Gas Production",
+    "Status": true,
+    "Device": "GE",
+    "Live_Since": "2021/03/22",
+    "Last_Data_Recieved": "2022/08/05"
+  },
+  {
+    "id": 177,
+    "Industry": "Television Services",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2022/04/28",
+    "Last_Data_Recieved": "2021/10/29"
+  },
+  {
+    "id": 178,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "CL",
+    "Live_Since": "2022/04/25",
+    "Last_Data_Recieved": "2022/02/28"
+  },
+  {
+    "id": 179,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "BR",
+    "Live_Since": "2019/09/30",
+    "Last_Data_Recieved": "2022/08/03"
+  },
+  {
+    "id": 180,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "FR",
+    "Live_Since": "2020/05/28",
+    "Last_Data_Recieved": "2022/05/04"
+  },
+  {
+    "id": 181,
+    "Industry": "Air Freight/Delivery Services",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2020/02/26",
+    "Last_Data_Recieved": "2022/01/06"
+  },
+  {
+    "id": 182,
+    "Industry": "Industrial Specialties",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2021/06/09",
+    "Last_Data_Recieved": "2022/01/16"
+  },
+  {
+    "id": 183,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "NG",
+    "Live_Since": "2021/12/15",
+    "Last_Data_Recieved": "2021/09/01"
+  },
+  {
+    "id": 184,
+    "Industry": "Beverages (Production/Distribution)",
+    "Status": true,
+    "Device": "ID",
+    "Live_Since": "2019/12/22",
+    "Last_Data_Recieved": "2022/03/03"
+  },
+  {
+    "id": 185,
+    "Industry": "Major Pharmaceuticals",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2020/05/09",
+    "Last_Data_Recieved": "2021/08/27"
+  },
+  {
+    "id": 186,
+    "Industry": "Major Pharmaceuticals",
+    "Status": true,
+    "Device": "FR",
+    "Live_Since": "2020/04/01",
+    "Last_Data_Recieved": "2022/05/04"
+  },
+  {
+    "id": 187,
+    "Industry": "Real Estate",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2021/07/30",
+    "Last_Data_Recieved": "2022/01/27"
+  },
+  {
+    "id": 188,
+    "Industry": "Specialty Chemicals",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2020/10/16",
+    "Last_Data_Recieved": "2022/07/12"
+  },
+  {
+    "id": 189,
+    "Industry": "Packaged Foods",
+    "Status": false,
+    "Device": "PE",
+    "Live_Since": "2019/10/03",
+    "Last_Data_Recieved": "2022/06/06"
+  },
+  {
+    "id": 190,
+    "Industry": "Homebuilding",
+    "Status": true,
+    "Device": "ID",
+    "Live_Since": "2020/06/24",
+    "Last_Data_Recieved": "2022/05/10"
+  },
+  {
+    "id": 191,
+    "Industry": "Major Pharmaceuticals",
+    "Status": false,
+    "Device": "SE",
+    "Live_Since": "2020/09/01",
+    "Last_Data_Recieved": "2022/02/25"
+  },
+  {
+    "id": 192,
+    "Industry": "Major Banks",
+    "Status": true,
+    "Device": "PL",
+    "Live_Since": "2020/11/30",
+    "Last_Data_Recieved": "2022/08/01"
+  },
+  {
+    "id": 193,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "WS",
+    "Live_Since": "2022/05/30",
+    "Last_Data_Recieved": "2021/11/24"
+  },
+  {
+    "id": 194,
+    "Industry": "Telecommunications Equipment",
+    "Status": true,
+    "Device": "PS",
+    "Live_Since": "2019/09/04",
+    "Last_Data_Recieved": "2022/05/19"
+  },
+  {
+    "id": 195,
+    "Industry": "Precision Instruments",
+    "Status": false,
+    "Device": "UA",
+    "Live_Since": "2022/02/11",
+    "Last_Data_Recieved": "2022/05/14"
+  },
+  {
+    "id": 196,
+    "Industry": "Investment Managers",
+    "Status": true,
+    "Device": "ID",
+    "Live_Since": "2021/03/16",
+    "Last_Data_Recieved": "2022/04/03"
+  },
+  {
+    "id": 197,
+    "Industry": "Medical Electronics",
+    "Status": true,
+    "Device": "AM",
+    "Live_Since": "2022/01/09",
+    "Last_Data_Recieved": "2022/08/07"
+  },
+  {
+    "id": 198,
+    "Industry": "EDP Services",
+    "Status": false,
+    "Device": "AF",
+    "Live_Since": "2022/06/18",
+    "Last_Data_Recieved": "2022/06/09"
+  },
+  {
+    "id": 199,
+    "Industry": "Investment Bankers/Brokers/Service",
+    "Status": false,
+    "Device": "CO",
+    "Live_Since": "2019/10/03",
+    "Last_Data_Recieved": "2021/09/01"
+  },
+  {
+    "id": 200,
+    "Industry": "Major Pharmaceuticals",
+    "Status": false,
+    "Device": "LT",
+    "Live_Since": "2020/07/30",
+    "Last_Data_Recieved": "2022/04/06"
+  },
+  {
+    "id": 201,
+    "Industry": "Property-Casualty Insurers",
+    "Status": false,
+    "Device": "BA",
+    "Live_Since": "2021/04/27",
+    "Last_Data_Recieved": "2022/03/02"
+  },
+  {
+    "id": 202,
+    "Industry": "Finance: Consumer Services",
+    "Status": false,
+    "Device": "PT",
+    "Live_Since": "2022/07/30",
+    "Last_Data_Recieved": "2022/03/09"
+  },
+  {
+    "id": 203,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "HR",
+    "Live_Since": "2020/05/03",
+    "Last_Data_Recieved": "2021/11/06"
+  },
+  {
+    "id": 204,
+    "Industry": "Computer Software: Prepackaged Software",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2022/01/03",
+    "Last_Data_Recieved": "2021/12/19"
+  },
+  {
+    "id": 205,
+    "Industry": "Apparel",
+    "Status": false,
+    "Device": "FI",
+    "Live_Since": "2022/01/01",
+    "Last_Data_Recieved": "2021/09/10"
+  },
+  {
+    "id": 206,
+    "Industry": "Specialty Insurers",
+    "Status": true,
+    "Device": "IE",
+    "Live_Since": "2020/07/23",
+    "Last_Data_Recieved": "2022/08/01"
+  },
+  {
+    "id": 207,
+    "Industry": "Office Equipment/Supplies/Services",
+    "Status": false,
+    "Device": "MK",
+    "Live_Since": "2020/12/22",
+    "Last_Data_Recieved": "2021/11/25"
+  },
+  {
+    "id": 208,
+    "Industry": "Telecommunications Equipment",
+    "Status": false,
+    "Device": "BR",
+    "Live_Since": "2019/08/22",
+    "Last_Data_Recieved": "2022/02/07"
+  },
+  {
+    "id": 209,
+    "Industry": "Major Pharmaceuticals",
+    "Status": false,
+    "Device": "PT",
+    "Live_Since": "2022/07/27",
+    "Last_Data_Recieved": "2021/09/08"
+  },
+  {
+    "id": 210,
+    "Industry": "Computer Software: Prepackaged Software",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2020/04/30",
+    "Last_Data_Recieved": "2022/04/10"
+  },
+  {
+    "id": 211,
+    "Industry": "Major Banks",
+    "Status": true,
+    "Device": "PH",
+    "Live_Since": "2021/11/29",
+    "Last_Data_Recieved": "2022/07/19"
+  },
+  {
+    "id": 212,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "PH",
+    "Live_Since": "2021/02/15",
+    "Last_Data_Recieved": "2022/05/07"
+  },
+  {
+    "id": 213,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2020/07/10",
+    "Last_Data_Recieved": "2021/12/15"
+  },
+  {
+    "id": 214,
+    "Industry": "Power Generation",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2019/11/01",
+    "Last_Data_Recieved": "2022/01/08"
+  },
+  {
+    "id": 215,
+    "Industry": "Hotels/Resorts",
+    "Status": false,
+    "Device": "MG",
+    "Live_Since": "2020/05/05",
+    "Last_Data_Recieved": "2021/11/22"
+  },
+  {
+    "id": 216,
+    "Industry": "Auto Manufacturing",
+    "Status": true,
+    "Device": "ID",
+    "Live_Since": "2020/12/18",
+    "Last_Data_Recieved": "2022/02/05"
+  },
+  {
+    "id": 217,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2020/12/06",
+    "Last_Data_Recieved": "2021/11/19"
+  },
+  {
+    "id": 218,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "CZ",
+    "Live_Since": "2020/02/01",
+    "Last_Data_Recieved": "2021/11/26"
+  },
+  {
+    "id": 219,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2022/04/22",
+    "Last_Data_Recieved": "2021/12/08"
+  },
+  {
+    "id": 220,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "CL",
+    "Live_Since": "2019/12/14",
+    "Last_Data_Recieved": "2022/02/22"
+  },
+  {
+    "id": 221,
+    "Industry": "Major Banks",
+    "Status": false,
+    "Device": "TH",
+    "Live_Since": "2021/05/29",
+    "Last_Data_Recieved": "2021/10/14"
+  },
+  {
+    "id": 222,
+    "Industry": "Semiconductors",
+    "Status": true,
+    "Device": "ID",
+    "Live_Since": "2022/02/09",
+    "Last_Data_Recieved": "2021/11/27"
+  },
+  {
+    "id": 223,
+    "Industry": "Industrial Machinery/Components",
+    "Status": false,
+    "Device": "MY",
+    "Live_Since": "2020/09/13",
+    "Last_Data_Recieved": "2021/10/04"
+  },
+  {
+    "id": 224,
+    "Industry": "Major Pharmaceuticals",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2021/01/03",
+    "Last_Data_Recieved": "2022/01/10"
+  },
+  {
+    "id": 225,
+    "Industry": "Apparel",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2020/05/25",
+    "Last_Data_Recieved": "2021/08/31"
+  },
+  {
+    "id": 226,
+    "Industry": "EDP Services",
+    "Status": false,
+    "Device": "PH",
+    "Live_Since": "2022/02/06",
+    "Last_Data_Recieved": "2022/02/08"
+  },
+  {
+    "id": 227,
+    "Industry": "Homebuilding",
+    "Status": false,
+    "Device": "MZ",
+    "Live_Since": "2020/09/08",
+    "Last_Data_Recieved": "2022/08/08"
+  },
+  {
+    "id": 228,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "MU",
+    "Live_Since": "2022/02/25",
+    "Last_Data_Recieved": "2021/10/05"
+  },
+  {
+    "id": 229,
+    "Industry": "Natural Gas Distribution",
+    "Status": true,
+    "Device": "PT",
+    "Live_Since": "2022/05/03",
+    "Last_Data_Recieved": "2022/01/30"
+  },
+  {
+    "id": 230,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2021/07/11",
+    "Last_Data_Recieved": "2021/12/14"
+  },
+  {
+    "id": 231,
+    "Industry": "Major Banks",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2021/12/02",
+    "Last_Data_Recieved": "2022/07/15"
+  },
+  {
+    "id": 232,
+    "Industry": "Major Banks",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2021/08/22",
+    "Last_Data_Recieved": "2022/05/05"
+  },
+  {
+    "id": 233,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "PH",
+    "Live_Since": "2022/05/17",
+    "Last_Data_Recieved": "2021/12/27"
+  },
+  {
+    "id": 234,
+    "Industry": "Oil & Gas Production",
+    "Status": true,
+    "Device": "PY",
+    "Live_Since": "2022/06/20",
+    "Last_Data_Recieved": "2022/04/14"
+  },
+  {
+    "id": 235,
+    "Industry": "Major Chemicals",
+    "Status": false,
+    "Device": "ET",
+    "Live_Since": "2021/09/13",
+    "Last_Data_Recieved": "2021/11/15"
+  },
+  {
+    "id": 236,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "PT",
+    "Live_Since": "2022/05/03",
+    "Last_Data_Recieved": "2022/06/17"
+  },
+  {
+    "id": 237,
+    "Industry": "Coal Mining",
+    "Status": false,
+    "Device": "PT",
+    "Live_Since": "2021/09/15",
+    "Last_Data_Recieved": "2021/10/15"
+  },
+  {
+    "id": 238,
+    "Industry": "Natural Gas Distribution",
+    "Status": false,
+    "Device": "PT",
+    "Live_Since": "2022/06/24",
+    "Last_Data_Recieved": "2022/01/14"
+  },
+  {
+    "id": 239,
+    "Industry": "Business Services",
+    "Status": true,
+    "Device": "JP",
+    "Live_Since": "2021/05/31",
+    "Last_Data_Recieved": "2021/09/22"
+  },
+  {
+    "id": 240,
+    "Industry": "Air Freight/Delivery Services",
+    "Status": true,
+    "Device": "ID",
+    "Live_Since": "2019/10/31",
+    "Last_Data_Recieved": "2021/08/24"
+  },
+  {
+    "id": 241,
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "Status": false,
+    "Device": "AE",
+    "Live_Since": "2019/10/20",
+    "Last_Data_Recieved": "2021/11/08"
+  },
+  {
+    "id": 242,
+    "Industry": "Packaged Foods",
+    "Status": false,
+    "Device": "LK",
+    "Live_Since": "2020/10/10",
+    "Last_Data_Recieved": "2022/07/04"
+  },
+  {
+    "id": 243,
+    "Industry": "Catalog/Specialty Distribution",
+    "Status": false,
+    "Device": "TH",
+    "Live_Since": "2020/05/19",
+    "Last_Data_Recieved": "2022/03/17"
+  },
+  {
+    "id": 244,
+    "Industry": "Restaurants",
+    "Status": false,
+    "Device": "ML",
+    "Live_Since": "2021/12/16",
+    "Last_Data_Recieved": "2021/08/24"
+  },
+  {
+    "id": 245,
+    "Industry": "Finance: Consumer Services",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2022/03/23",
+    "Last_Data_Recieved": "2022/03/06"
+  },
+  {
+    "id": 246,
+    "Industry": "Computer Software: Programming, Data Processing",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2021/06/17",
+    "Last_Data_Recieved": "2022/04/12"
+  },
+  {
+    "id": 247,
+    "Industry": "RETAIL: Building Materials",
+    "Status": false,
+    "Device": "AM",
+    "Live_Since": "2019/11/04",
+    "Last_Data_Recieved": "2022/03/07"
+  },
+  {
+    "id": 248,
+    "Industry": "Computer Software: Prepackaged Software",
+    "Status": true,
+    "Device": "CA",
+    "Live_Since": "2020/08/07",
+    "Last_Data_Recieved": "2022/07/06"
+  },
+  {
+    "id": 249,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2021/11/01",
+    "Last_Data_Recieved": "2022/05/19"
+  },
+  {
+    "id": 250,
+    "Industry": "Major Banks",
+    "Status": false,
+    "Device": "FR",
+    "Live_Since": "2022/07/10",
+    "Last_Data_Recieved": "2021/10/23"
+  },
+  {
+    "id": 251,
+    "Industry": "Professional Services",
+    "Status": false,
+    "Device": "PH",
+    "Live_Since": "2022/02/19",
+    "Last_Data_Recieved": "2022/04/14"
+  },
+  {
+    "id": 252,
+    "Industry": "Investment Managers",
+    "Status": false,
+    "Device": "CA",
+    "Live_Since": "2021/06/02",
+    "Last_Data_Recieved": "2022/08/09"
+  },
+  {
+    "id": 253,
+    "Industry": "Telecommunications Equipment",
+    "Status": true,
+    "Device": "GR",
+    "Live_Since": "2022/04/03",
+    "Last_Data_Recieved": "2021/12/20"
+  },
+  {
+    "id": 254,
+    "Industry": "Business Services",
+    "Status": true,
+    "Device": "AR",
+    "Live_Since": "2020/09/26",
+    "Last_Data_Recieved": "2022/07/16"
+  },
+  {
+    "id": 255,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2019/11/14",
+    "Last_Data_Recieved": "2021/12/25"
+  },
+  {
+    "id": 256,
+    "Industry": "Office Equipment/Supplies/Services",
+    "Status": false,
+    "Device": "RU",
+    "Live_Since": "2021/11/09",
+    "Last_Data_Recieved": "2022/07/25"
+  },
+  {
+    "id": 257,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "PH",
+    "Live_Since": "2020/12/06",
+    "Last_Data_Recieved": "2021/12/10"
+  },
+  {
+    "id": 258,
+    "Industry": "Major Pharmaceuticals",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2020/04/26",
+    "Last_Data_Recieved": "2022/03/10"
+  },
+  {
+    "id": 259,
+    "Industry": "Savings Institutions",
+    "Status": false,
+    "Device": "BY",
+    "Live_Since": "2022/04/25",
+    "Last_Data_Recieved": "2022/04/06"
+  },
+  {
+    "id": 260,
+    "Industry": "Office Equipment/Supplies/Services",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2019/11/01",
+    "Last_Data_Recieved": "2022/06/13"
+  },
+  {
+    "id": 261,
+    "Industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+    "Status": false,
+    "Device": "PH",
+    "Live_Since": "2022/02/14",
+    "Last_Data_Recieved": "2021/09/16"
+  },
+  {
+    "id": 262,
+    "Industry": "Commercial Banks",
+    "Status": false,
+    "Device": "TZ",
+    "Live_Since": "2020/02/18",
+    "Last_Data_Recieved": "2021/11/12"
+  },
+  {
+    "id": 263,
+    "Industry": "Containers/Packaging",
+    "Status": false,
+    "Device": "PH",
+    "Live_Since": "2021/07/11",
+    "Last_Data_Recieved": "2022/03/21"
+  },
+  {
+    "id": 264,
+    "Industry": "Medical/Dental Instruments",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2020/09/09",
+    "Last_Data_Recieved": "2021/10/31"
+  },
+  {
+    "id": 265,
+    "Industry": "Major Banks",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2019/09/08",
+    "Last_Data_Recieved": "2022/05/06"
+  },
+  {
+    "id": 266,
+    "Industry": "Medical/Nursing Services",
+    "Status": false,
+    "Device": "RS",
+    "Live_Since": "2021/06/25",
+    "Last_Data_Recieved": "2022/08/09"
+  },
+  {
+    "id": 267,
+    "Industry": "Specialty Foods",
+    "Status": true,
+    "Device": "CA",
+    "Live_Since": "2020/06/27",
+    "Last_Data_Recieved": "2022/07/03"
+  },
+  {
+    "id": 268,
+    "Industry": "Semiconductors",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2021/11/16",
+    "Last_Data_Recieved": "2022/08/07"
+  },
+  {
+    "id": 269,
+    "Industry": "Miscellaneous manufacturing industries",
+    "Status": true,
+    "Device": "CO",
+    "Live_Since": "2020/06/09",
+    "Last_Data_Recieved": "2022/07/07"
+  },
+  {
+    "id": 270,
+    "Industry": "Multi-Sector Companies",
+    "Status": false,
+    "Device": "RU",
+    "Live_Since": "2019/12/08",
+    "Last_Data_Recieved": "2022/04/28"
+  },
+  {
+    "id": 271,
+    "Industry": "Other Specialty Stores",
+    "Status": true,
+    "Device": "CA",
+    "Live_Since": "2020/04/21",
+    "Last_Data_Recieved": "2021/12/28"
+  },
+  {
+    "id": 272,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "FI",
+    "Live_Since": "2022/07/02",
+    "Last_Data_Recieved": "2021/11/22"
+  },
+  {
+    "id": 273,
+    "Industry": "Electrical Products",
+    "Status": false,
+    "Device": "RU",
+    "Live_Since": "2021/01/18",
+    "Last_Data_Recieved": "2022/04/05"
+  },
+  {
+    "id": 274,
+    "Industry": "Medical/Nursing Services",
+    "Status": false,
+    "Device": "SE",
+    "Live_Since": "2020/12/10",
+    "Last_Data_Recieved": "2021/12/17"
+  },
+  {
+    "id": 275,
+    "Industry": "RETAIL: Building Materials",
+    "Status": true,
+    "Device": "BR",
+    "Live_Since": "2022/08/18",
+    "Last_Data_Recieved": "2021/12/07"
+  },
+  {
+    "id": 276,
+    "Industry": "Major Banks",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2019/12/29",
+    "Last_Data_Recieved": "2022/06/06"
+  },
+  {
+    "id": 277,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "MX",
+    "Live_Since": "2020/11/24",
+    "Last_Data_Recieved": "2021/10/14"
+  },
+  {
+    "id": 278,
+    "Industry": "Major Banks",
+    "Status": true,
+    "Device": "PE",
+    "Live_Since": "2022/06/23",
+    "Last_Data_Recieved": "2022/08/14"
+  },
+  {
+    "id": 279,
+    "Industry": "Major Banks",
+    "Status": false,
+    "Device": "AR",
+    "Live_Since": "2021/11/10",
+    "Last_Data_Recieved": "2022/07/29"
+  },
+  {
+    "id": 280,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "FR",
+    "Live_Since": "2019/09/02",
+    "Last_Data_Recieved": "2022/06/15"
+  },
+  {
+    "id": 281,
+    "Industry": "Major Chemicals",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2021/07/29",
+    "Last_Data_Recieved": "2021/11/09"
+  },
+  {
+    "id": 282,
+    "Industry": "Homebuilding",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2020/04/12",
+    "Last_Data_Recieved": "2022/05/02"
+  },
+  {
+    "id": 283,
+    "Industry": "Construction/Ag Equipment/Trucks",
+    "Status": false,
+    "Device": "PH",
+    "Live_Since": "2019/09/10",
+    "Last_Data_Recieved": "2021/11/05"
+  },
+  {
+    "id": 284,
+    "Industry": "Real Estate",
+    "Status": false,
+    "Device": "CZ",
+    "Live_Since": "2019/11/14",
+    "Last_Data_Recieved": "2021/12/05"
+  },
+  {
+    "id": 285,
+    "Industry": "Marine Transportation",
+    "Status": false,
+    "Device": "CZ",
+    "Live_Since": "2020/11/20",
+    "Last_Data_Recieved": "2022/01/23"
+  },
+  {
+    "id": 286,
+    "Industry": "Forest Products",
+    "Status": false,
+    "Device": "HR",
+    "Live_Since": "2021/05/06",
+    "Last_Data_Recieved": "2021/11/09"
+  },
+  {
+    "id": 287,
+    "Industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+    "Status": true,
+    "Device": "VN",
+    "Live_Since": "2021/01/29",
+    "Last_Data_Recieved": "2022/03/20"
+  },
+  {
+    "id": 288,
+    "Industry": "Life Insurance",
+    "Status": true,
+    "Device": "ID",
+    "Live_Since": "2022/08/03",
+    "Last_Data_Recieved": "2022/03/31"
+  },
+  {
+    "id": 289,
+    "Industry": "Other Consumer Services",
+    "Status": true,
+    "Device": "JM",
+    "Live_Since": "2021/02/23",
+    "Last_Data_Recieved": "2022/02/16"
+  },
+  {
+    "id": 290,
+    "Industry": "EDP Services",
+    "Status": true,
+    "Device": "NI",
+    "Live_Since": "2020/11/07",
+    "Last_Data_Recieved": "2022/02/09"
+  },
+  {
+    "id": 291,
+    "Industry": "Medical Specialities",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2021/11/09",
+    "Last_Data_Recieved": "2022/02/02"
+  },
+  {
+    "id": 292,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "AL",
+    "Live_Since": "2022/02/04",
+    "Last_Data_Recieved": "2022/07/23"
+  },
+  {
+    "id": 293,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2019/11/29",
+    "Last_Data_Recieved": "2022/06/18"
+  },
+  {
+    "id": 294,
+    "Industry": "Property-Casualty Insurers",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2022/07/06",
+    "Last_Data_Recieved": "2021/09/25"
+  },
+  {
+    "id": 295,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "VN",
+    "Live_Since": "2021/04/27",
+    "Last_Data_Recieved": "2021/09/17"
+  },
+  {
+    "id": 296,
+    "Industry": "Major Pharmaceuticals",
+    "Status": false,
+    "Device": "AR",
+    "Live_Since": "2021/03/15",
+    "Last_Data_Recieved": "2022/05/06"
+  },
+  {
+    "id": 297,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "MX",
+    "Live_Since": "2019/10/13",
+    "Last_Data_Recieved": "2022/06/14"
+  },
+  {
+    "id": 298,
+    "Industry": "Metal Fabrications",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2021/08/08",
+    "Last_Data_Recieved": "2021/10/12"
+  },
+  {
+    "id": 299,
+    "Industry": "RETAIL: Building Materials",
+    "Status": false,
+    "Device": "IT",
+    "Live_Since": "2021/11/28",
+    "Last_Data_Recieved": "2022/05/06"
+  },
+  {
+    "id": 300,
+    "Industry": "Real Estate",
+    "Status": false,
+    "Device": "RU",
+    "Live_Since": "2021/04/17",
+    "Last_Data_Recieved": "2021/09/05"
+  },
+  {
+    "id": 301,
+    "Industry": "Major Pharmaceuticals",
+    "Status": false,
+    "Device": "BR",
+    "Live_Since": "2021/07/29",
+    "Last_Data_Recieved": "2022/05/04"
+  },
+  {
+    "id": 302,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "CO",
+    "Live_Since": "2021/08/26",
+    "Last_Data_Recieved": "2021/10/31"
+  },
+  {
+    "id": 303,
+    "Industry": "Major Pharmaceuticals",
+    "Status": false,
+    "Device": "PH",
+    "Live_Since": "2021/01/19",
+    "Last_Data_Recieved": "2021/10/31"
+  },
+  {
+    "id": 304,
+    "Industry": "Power Generation",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2021/10/03",
+    "Last_Data_Recieved": "2022/04/05"
+  },
+  {
+    "id": 305,
+    "Industry": "Integrated oil Companies",
+    "Status": true,
+    "Device": "AF",
+    "Live_Since": "2021/01/07",
+    "Last_Data_Recieved": "2021/11/27"
+  },
+  {
+    "id": 306,
+    "Industry": "Commercial Banks",
+    "Status": true,
+    "Device": "BD",
+    "Live_Since": "2020/07/26",
+    "Last_Data_Recieved": "2022/01/26"
+  },
+  {
+    "id": 307,
+    "Industry": "Oil & Gas Production",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2021/12/13",
+    "Last_Data_Recieved": "2022/02/09"
+  },
+  {
+    "id": 308,
+    "Industry": "Transportation Services",
+    "Status": false,
+    "Device": "VE",
+    "Live_Since": "2020/10/09",
+    "Last_Data_Recieved": "2022/02/10"
+  },
+  {
+    "id": 309,
+    "Industry": "Marine Transportation",
+    "Status": true,
+    "Device": "PH",
+    "Live_Since": "2019/10/08",
+    "Last_Data_Recieved": "2022/08/11"
+  },
+  {
+    "id": 310,
+    "Industry": "Major Pharmaceuticals",
+    "Status": true,
+    "Device": "ID",
+    "Live_Since": "2020/07/14",
+    "Last_Data_Recieved": "2021/10/11"
+  },
+  {
+    "id": 311,
+    "Industry": "Auto Parts:O.E.M.",
+    "Status": true,
+    "Device": "CA",
+    "Live_Since": "2019/08/25",
+    "Last_Data_Recieved": "2021/11/02"
+  },
+  {
+    "id": 312,
+    "Industry": "Miscellaneous manufacturing industries",
+    "Status": false,
+    "Device": "PL",
+    "Live_Since": "2020/12/20",
+    "Last_Data_Recieved": "2022/07/04"
+  },
+  {
+    "id": 313,
+    "Industry": "Semiconductors",
+    "Status": true,
+    "Device": "UA",
+    "Live_Since": "2020/06/15",
+    "Last_Data_Recieved": "2021/11/23"
+  },
+  {
+    "id": 314,
+    "Industry": "Investment Bankers/Brokers/Service",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2022/02/27",
+    "Last_Data_Recieved": "2022/03/17"
+  },
+  {
+    "id": 315,
+    "Industry": "Major Banks",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2020/05/30",
+    "Last_Data_Recieved": "2021/12/02"
+  },
+  {
+    "id": 316,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "IR",
+    "Live_Since": "2021/11/16",
+    "Last_Data_Recieved": "2021/11/13"
+  },
+  {
+    "id": 317,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2022/04/13",
+    "Last_Data_Recieved": "2021/10/30"
+  },
+  {
+    "id": 318,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": true,
+    "Device": "ET",
+    "Live_Since": "2021/06/08",
+    "Last_Data_Recieved": "2022/02/11"
+  },
+  {
+    "id": 319,
+    "Industry": "Major Pharmaceuticals",
+    "Status": true,
+    "Device": "AF",
+    "Live_Since": "2019/11/27",
+    "Last_Data_Recieved": "2022/05/20"
+  },
+  {
+    "id": 320,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "MA",
+    "Live_Since": "2022/03/20",
+    "Last_Data_Recieved": "2022/08/04"
+  },
+  {
+    "id": 321,
+    "Industry": "Metal Fabrications",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2022/07/16",
+    "Last_Data_Recieved": "2021/11/07"
+  },
+  {
+    "id": 322,
+    "Industry": "Medical Electronics",
+    "Status": false,
+    "Device": "HR",
+    "Live_Since": "2022/07/16",
+    "Last_Data_Recieved": "2022/03/07"
+  },
+  {
+    "id": 323,
+    "Industry": "Industrial Specialties",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2019/09/25",
+    "Last_Data_Recieved": "2021/10/11"
+  },
+  {
+    "id": 324,
+    "Industry": "Major Pharmaceuticals",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2021/07/23",
+    "Last_Data_Recieved": "2022/04/10"
+  },
+  {
+    "id": 325,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "GT",
+    "Live_Since": "2019/10/16",
+    "Last_Data_Recieved": "2022/03/06"
+  },
+  {
+    "id": 326,
+    "Industry": "Major Banks",
+    "Status": false,
+    "Device": "BO",
+    "Live_Since": "2020/07/16",
+    "Last_Data_Recieved": "2021/08/25"
+  },
+  {
+    "id": 327,
+    "Industry": "Integrated oil Companies",
+    "Status": true,
+    "Device": "CO",
+    "Live_Since": "2020/05/26",
+    "Last_Data_Recieved": "2021/11/13"
+  },
+  {
+    "id": 328,
+    "Industry": "Computer Software: Programming, Data Processing",
+    "Status": false,
+    "Device": "SE",
+    "Live_Since": "2022/01/25",
+    "Last_Data_Recieved": "2022/08/07"
+  },
+  {
+    "id": 329,
+    "Industry": "Military/Government/Technical",
+    "Status": false,
+    "Device": "AR",
+    "Live_Since": "2022/02/02",
+    "Last_Data_Recieved": "2022/02/21"
+  },
+  {
+    "id": 330,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "US",
+    "Live_Since": "2021/09/18",
+    "Last_Data_Recieved": "2021/11/04"
+  },
+  {
+    "id": 331,
+    "Industry": "Clothing/Shoe/Accessory Stores",
+    "Status": true,
+    "Device": "BA",
+    "Live_Since": "2021/09/04",
+    "Last_Data_Recieved": "2022/03/13"
+  },
+  {
+    "id": 332,
+    "Industry": "Television Services",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2021/08/14",
+    "Last_Data_Recieved": "2022/04/03"
+  },
+  {
+    "id": 333,
+    "Industry": "Home Furnishings",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2021/02/10",
+    "Last_Data_Recieved": "2021/12/15"
+  },
+  {
+    "id": 334,
+    "Industry": "Aerospace",
+    "Status": true,
+    "Device": "DO",
+    "Live_Since": "2020/08/06",
+    "Last_Data_Recieved": "2022/04/16"
+  },
+  {
+    "id": 335,
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2020/01/31",
+    "Last_Data_Recieved": "2021/11/04"
+  },
+  {
+    "id": 336,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "JP",
+    "Live_Since": "2021/07/02",
+    "Last_Data_Recieved": "2022/07/03"
+  },
+  {
+    "id": 337,
+    "Industry": "Computer Software: Programming, Data Processing",
+    "Status": false,
+    "Device": "CU",
+    "Live_Since": "2022/01/22",
+    "Last_Data_Recieved": "2022/03/18"
+  },
+  {
+    "id": 338,
+    "Industry": "Specialty Chemicals",
+    "Status": false,
+    "Device": "PH",
+    "Live_Since": "2020/03/20",
+    "Last_Data_Recieved": "2022/07/30"
+  },
+  {
+    "id": 339,
+    "Industry": "Coal Mining",
+    "Status": true,
+    "Device": "NL",
+    "Live_Since": "2021/03/11",
+    "Last_Data_Recieved": "2021/08/30"
+  },
+  {
+    "id": 340,
+    "Industry": "Electric Utilities: Central",
+    "Status": true,
+    "Device": "ID",
+    "Live_Since": "2021/11/19",
+    "Last_Data_Recieved": "2022/07/25"
+  },
+  {
+    "id": 341,
+    "Industry": "Precious Metals",
+    "Status": true,
+    "Device": "HN",
+    "Live_Since": "2021/11/27",
+    "Last_Data_Recieved": "2022/07/07"
+  },
+  {
+    "id": 342,
+    "Industry": "RETAIL: Building Materials",
+    "Status": true,
+    "Device": "JP",
+    "Live_Since": "2022/01/22",
+    "Last_Data_Recieved": "2021/10/02"
+  },
+  {
+    "id": 343,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "PT",
+    "Live_Since": "2021/04/29",
+    "Last_Data_Recieved": "2022/01/11"
+  },
+  {
+    "id": 344,
+    "Industry": "Major Pharmaceuticals",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2022/01/30",
+    "Last_Data_Recieved": "2022/04/14"
+  },
+  {
+    "id": 345,
+    "Industry": "Diversified Commercial Services",
+    "Status": false,
+    "Device": "VE",
+    "Live_Since": "2020/05/06",
+    "Last_Data_Recieved": "2022/01/03"
+  },
+  {
+    "id": 346,
+    "Industry": "Industrial Machinery/Components",
+    "Status": true,
+    "Device": "HU",
+    "Live_Since": "2020/08/26",
+    "Last_Data_Recieved": "2022/07/16"
+  },
+  {
+    "id": 347,
+    "Industry": "Coal Mining",
+    "Status": true,
+    "Device": "SY",
+    "Live_Since": "2020/04/23",
+    "Last_Data_Recieved": "2021/10/18"
+  },
+  {
+    "id": 348,
+    "Industry": "Major Banks",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2020/08/10",
+    "Last_Data_Recieved": "2021/10/26"
+  },
+  {
+    "id": 349,
+    "Industry": "Semiconductors",
+    "Status": false,
+    "Device": "RU",
+    "Live_Since": "2021/01/09",
+    "Last_Data_Recieved": "2021/11/28"
+  },
+  {
+    "id": 350,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "FR",
+    "Live_Since": "2019/08/21",
+    "Last_Data_Recieved": "2021/11/06"
+  },
+  {
+    "id": 351,
+    "Industry": "Package Goods/Cosmetics",
+    "Status": false,
+    "Device": "AL",
+    "Live_Since": "2020/06/19",
+    "Last_Data_Recieved": "2021/10/15"
+  },
+  {
+    "id": 352,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2021/07/17",
+    "Last_Data_Recieved": "2021/10/15"
+  },
+  {
+    "id": 353,
+    "Industry": "Semiconductors",
+    "Status": false,
+    "Device": "PH",
+    "Live_Since": "2021/01/17",
+    "Last_Data_Recieved": "2022/05/30"
+  },
+  {
+    "id": 354,
+    "Industry": "Radio And Television Broadcasting And Communications Equipment",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2020/06/06",
+    "Last_Data_Recieved": "2021/12/30"
+  },
+  {
+    "id": 355,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": true,
+    "Device": "CN",
+    "Live_Since": "2021/07/18",
+    "Last_Data_Recieved": "2022/04/19"
+  },
+  {
+    "id": 356,
+    "Industry": "Auto Parts:O.E.M.",
+    "Status": true,
+    "Device": "PT",
+    "Live_Since": "2020/10/24",
+    "Last_Data_Recieved": "2021/10/12"
+  },
+  {
+    "id": 357,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2021/10/30",
+    "Last_Data_Recieved": "2022/02/19"
+  },
+  {
+    "id": 358,
+    "Industry": "Major Banks",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2020/11/04",
+    "Last_Data_Recieved": "2022/02/07"
+  },
+  {
+    "id": 359,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2021/05/21",
+    "Last_Data_Recieved": "2022/07/23"
+  },
+  {
+    "id": 360,
+    "Industry": "Computer Software: Programming, Data Processing",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2019/11/09",
+    "Last_Data_Recieved": "2022/01/16"
+  },
+  {
+    "id": 361,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": false,
+    "Device": "TH",
+    "Live_Since": "2020/02/25",
+    "Last_Data_Recieved": "2022/06/30"
+  },
+  {
+    "id": 362,
+    "Industry": "Business Services",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2021/08/10",
+    "Last_Data_Recieved": "2022/06/09"
+  },
+  {
+    "id": 363,
+    "Industry": "Property-Casualty Insurers",
+    "Status": false,
+    "Device": "MY",
+    "Live_Since": "2021/09/01",
+    "Last_Data_Recieved": "2021/12/13"
+  },
+  {
+    "id": 364,
+    "Industry": "Life Insurance",
+    "Status": false,
+    "Device": "FI",
+    "Live_Since": "2021/01/08",
+    "Last_Data_Recieved": "2022/03/21"
+  },
+  {
+    "id": 365,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": false,
+    "Device": "GB",
+    "Live_Since": "2020/02/11",
+    "Last_Data_Recieved": "2021/10/16"
+  },
+  {
+    "id": 366,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "JP",
+    "Live_Since": "2020/03/15",
+    "Last_Data_Recieved": "2022/04/23"
+  },
+  {
+    "id": 367,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "VN",
+    "Live_Since": "2019/12/12",
+    "Last_Data_Recieved": "2022/04/01"
+  },
+  {
+    "id": 368,
+    "Industry": "Metal Fabrications",
+    "Status": false,
+    "Device": "FR",
+    "Live_Since": "2020/01/14",
+    "Last_Data_Recieved": "2021/12/12"
+  },
+  {
+    "id": 369,
+    "Industry": "n/a",
+    "Status": true,
+    "Device": "SE",
+    "Live_Since": "2020/12/06",
+    "Last_Data_Recieved": "2021/11/27"
+  },
+  {
+    "id": 370,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": true,
+    "Device": "MX",
+    "Live_Since": "2021/07/03",
+    "Last_Data_Recieved": "2021/09/08"
+  },
+  {
+    "id": 371,
+    "Industry": "Computer Software: Prepackaged Software",
+    "Status": false,
+    "Device": "MA",
+    "Live_Since": "2020/10/13",
+    "Last_Data_Recieved": "2021/12/06"
+  },
+  {
+    "id": 372,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "EG",
+    "Live_Since": "2020/09/12",
+    "Last_Data_Recieved": "2022/06/16"
+  },
+  {
+    "id": 373,
+    "Industry": "Professional Services",
+    "Status": true,
+    "Device": "NI",
+    "Live_Since": "2022/08/13",
+    "Last_Data_Recieved": "2022/01/21"
+  },
+  {
+    "id": 374,
+    "Industry": "Investment Bankers/Brokers/Service",
+    "Status": true,
+    "Device": "CZ",
+    "Live_Since": "2021/07/26",
+    "Last_Data_Recieved": "2022/07/14"
+  },
+  {
+    "id": 375,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": false,
+    "Device": "RU",
+    "Live_Since": "2020/03/16",
+    "Last_Data_Recieved": "2022/08/09"
+  },
+  {
+    "id": 376,
+    "Industry": "Office Equipment/Supplies/Services",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2020/04/11",
+    "Last_Data_Recieved": "2022/02/02"
+  },
+  {
+    "id": 377,
+    "Industry": "Industrial Machinery/Components",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2022/07/06",
+    "Last_Data_Recieved": "2022/03/19"
+  },
+  {
+    "id": 378,
+    "Industry": "Packaged Foods",
+    "Status": true,
+    "Device": "VE",
+    "Live_Since": "2019/08/20",
+    "Last_Data_Recieved": "2022/01/14"
+  },
+  {
+    "id": 379,
+    "Industry": "Computer Software: Prepackaged Software",
+    "Status": true,
+    "Device": "YE",
+    "Live_Since": "2022/02/14",
+    "Last_Data_Recieved": "2022/02/05"
+  },
+  {
+    "id": 380,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": false,
+    "Device": "PE",
+    "Live_Since": "2021/08/27",
+    "Last_Data_Recieved": "2021/11/08"
+  },
+  {
+    "id": 381,
+    "Industry": "Major Pharmaceuticals",
+    "Status": true,
+    "Device": "JP",
+    "Live_Since": "2021/11/02",
+    "Last_Data_Recieved": "2022/03/06"
+  },
+  {
+    "id": 382,
+    "Industry": "Property-Casualty Insurers",
+    "Status": true,
+    "Device": "PH",
+    "Live_Since": "2021/09/28",
+    "Last_Data_Recieved": "2022/06/05"
+  },
+  {
+    "id": 383,
+    "Industry": "Major Pharmaceuticals",
+    "Status": false,
+    "Device": "SI",
+    "Live_Since": "2021/07/25",
+    "Last_Data_Recieved": "2022/07/11"
+  },
+  {
+    "id": 384,
+    "Industry": "Business Services",
+    "Status": false,
+    "Device": "CF",
+    "Live_Since": "2021/06/03",
+    "Last_Data_Recieved": "2022/06/26"
+  },
+  {
+    "id": 385,
+    "Industry": "Life Insurance",
+    "Status": true,
+    "Device": "BR",
+    "Live_Since": "2022/05/14",
+    "Last_Data_Recieved": "2022/01/18"
+  },
+  {
+    "id": 386,
+    "Industry": "Industrial Specialties",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2021/01/17",
+    "Last_Data_Recieved": "2022/03/23"
+  },
+  {
+    "id": 387,
+    "Industry": "Major Banks",
+    "Status": true,
+    "Device": "CO",
+    "Live_Since": "2020/01/01",
+    "Last_Data_Recieved": "2021/11/28"
+  },
+  {
+    "id": 388,
+    "Industry": "Real Estate Investment Trusts",
+    "Status": false,
+    "Device": "ID",
+    "Live_Since": "2022/02/07",
+    "Last_Data_Recieved": "2022/03/02"
+  },
+  {
+    "id": 389,
+    "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+    "Status": false,
+    "Device": "CA",
+    "Live_Since": "2019/08/25",
+    "Last_Data_Recieved": "2022/01/17"
+  },
+  {
+    "id": 390,
+    "Industry": "Major Banks",
+    "Status": true,
+    "Device": "IT",
+    "Live_Since": "2020/06/26",
+    "Last_Data_Recieved": "2022/08/11"
+  },
+  {
+    "id": 391,
+    "Industry": "Finance: Consumer Services",
+    "Status": false,
+    "Device": "PE",
+    "Live_Since": "2021/07/04",
+    "Last_Data_Recieved": "2022/04/27"
+  },
+  {
+    "id": 392,
+    "Industry": "n/a",
+    "Status": false,
+    "Device": "PL",
+    "Live_Since": "2020/08/11",
+    "Last_Data_Recieved": "2022/06/01"
+  },
+  {
+    "id": 393,
+    "Industry": "Major Pharmaceuticals",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2020/06/19",
+    "Last_Data_Recieved": "2022/07/02"
+  },
+  {
+    "id": 394,
+    "Industry": "Real Estate",
+    "Status": true,
+    "Device": "FR",
+    "Live_Since": "2019/09/24",
+    "Last_Data_Recieved": "2022/03/28"
+  },
+  {
+    "id": 395,
+    "Industry": "Military/Government/Technical",
+    "Status": false,
+    "Device": "CO",
+    "Live_Since": "2021/02/09",
+    "Last_Data_Recieved": "2022/06/12"
+  },
+  {
+    "id": 396,
+    "Industry": "Natural Gas Distribution",
+    "Status": false,
+    "Device": "PE",
+    "Live_Since": "2020/12/09",
+    "Last_Data_Recieved": "2022/02/12"
+  },
+  {
+    "id": 397,
+    "Industry": "Hotels/Resorts",
+    "Status": true,
+    "Device": "RU",
+    "Live_Since": "2020/12/25",
+    "Last_Data_Recieved": "2022/07/25"
+  },
+  {
+    "id": 398,
+    "Industry": "Savings Institutions",
+    "Status": true,
+    "Device": "SE",
+    "Live_Since": "2022/05/06",
+    "Last_Data_Recieved": "2021/11/09"
+  },
+  {
+    "id": 399,
+    "Industry": "Electric Utilities: Central",
+    "Status": true,
+    "Device": "FR",
+    "Live_Since": "2021/08/28",
+    "Last_Data_Recieved": "2021/08/24"
+  },
+  {
+    "id": 400,
+    "Industry": "Consumer Electronics/Appliances",
+    "Status": false,
+    "Device": "CN",
+    "Live_Since": "2021/04/30",
+    "Last_Data_Recieved": "2021/10/11"
+  }
+]

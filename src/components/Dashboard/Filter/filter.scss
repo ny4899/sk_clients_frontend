@@ -1,0 +1,5 @@
+@use "../../../common/variables.scss" as v;
+
+.bar_border{
+    border: 1px solid v.$navy;
+}

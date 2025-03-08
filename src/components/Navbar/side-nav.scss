@@ -1,0 +1,64 @@
+@use "../../common/variables.scss" as v;
+.sidebar__wrapper{
+  background-color: v.$white;
+  z-index: 1000;
+.sidebar__inner__wrapper {
+  background-color: v.$black;
+  .accordion {
+    .accordion-item {
+      border-radius: 0px;
+      h2 {
+        & > a {
+          text-decoration: none;
+          color: v.$black;
+          background-color: v.$white;
+          border: none;
+          box-shadow: none;
+          &::after {
+            content: none;
+          }
+          &:hover {
+            background-color: v.$gray;
+          }
+        }
+        & > button {
+          color: v.$black;
+          background-color: v.$white;
+          border: none;
+          box-shadow: none;
+        }
+        .active {
+          background-color: v.$gray;
+          &:hover {
+            background-color: v.$gray;
+          }
+        }
+      }
+      .accordion-collapse {
+        .accordion-body {
+          a {
+            padding: 6px 0px;
+            text-decoration: none;
+            color: v.$black;
+            background-color: v.$lightGray;
+            border: none;
+            box-shadow: none;
+            &::after {
+              content: none;
+            }
+            &:hover {
+              background-color: v.$gray;
+            }
+          }
+          .active {
+            background-color: v.$gray;
+            &:hover {
+              background-color: v.$gray;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+}

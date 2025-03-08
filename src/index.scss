@@ -1,0 +1,58 @@
+@use "common/variables.scss" as v;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+button,
+i,
+span,
+div,
+input {
+  color: v.$black;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: v.$bodybg;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tomato_red_bg{
+  background-color: v.$tomatoRed;
+}
+.yellow_bg{
+  background-color: v.$yellow;
+}
+.light_green_bg{
+  background-color: v.$green;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+fieldset,
+legend {
+  all: revert !important;
+}
+legend {
+  background-color: v.$bodybg !important;
+  margin-bottom: 15px !important;
+  border-radius: 7px !important;
+  font-size: 25px !important;
+  font-weight: 500 !important;
+  padding: 10px 10px !important;
+  color: v.$black !important;
+}

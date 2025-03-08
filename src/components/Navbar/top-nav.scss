@@ -1,0 +1,135 @@
+@use "../../common/variables.scss" as v;
+
+.nav__inner__wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: v.$navy;
+  .nav__left {
+    display: flex;
+    align-items: center;
+    width: max-content;
+    height: 100%;
+    .hum__icon {
+      font-weight: bold;
+      font-size: 24px;
+      cursor: pointer;
+      color: v.$white;
+    }
+    a {
+      height: 70%;
+      .main__logo {
+        height: 100%;
+        margin-left: 20px;
+      }
+    }
+  }
+  .nav__right {
+    width: max-content;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    .btn-group {
+      & > button,
+      & > button:focus,
+      & > button:hover,
+      & > button:active {
+        outline: none;
+        box-shadow: none;
+        border: none;
+      }
+      & > button {
+        color: v.$white;
+        a {
+          color: v.$white;
+        }
+      }
+      .dropdown-menu {
+        li {
+          a {
+            cursor: pointer;
+            &:hover {
+              background-color: v.$gray;
+            }
+            &:focus {
+              color: v.$black;
+            }
+          }
+          .active {
+            background-color: v.$gray;
+            color: v.$black;
+          }
+        }
+      }
+      .mail__icon__btn::after {
+        content: none;
+      }
+      .mail__dropdown__conatiner {
+        min-width: 400px;
+        & > .list-group {
+          overflow-x: scroll;
+          height: 200px;
+          & > a {
+            border-radius: 0px !important;
+          }
+        }
+      }
+    }
+    & > a {
+      color: v.$white;
+    }
+    & > .cross__icon__box {
+      display: none;
+      svg {
+        color: v.$white;
+        cursor: pointer;
+      }
+    }
+  }
+  .dot__container {
+    width: max-content;
+    height: 100%;
+    display: none;
+    // display: flex;
+    align-items: center;
+    color: v.$white;
+    svg {
+      padding: 0px 5px;
+      cursor: pointer;
+    }
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .nav__inner__wrapper {
+    position: relative;
+    .nav__right {
+      position: absolute;
+      background-color: v.$navy;
+      width: 100%;
+      top: 0;
+      left: 0;
+      padding: 0px 10px;
+      & > .cross__icon__box {
+        display: block;
+      }
+    }
+    .nav__right__toggle {
+      display: none;
+    }
+    .dot__container {
+      display: flex;
+    }
+  }
+  .mail__dropdown__conatiner {
+    right: -10px !important;
+    min-width: 280px !important;
+    & > .list-group {
+      overflow-x: scroll;
+      height: 300px !important;
+    }
+  }
+}

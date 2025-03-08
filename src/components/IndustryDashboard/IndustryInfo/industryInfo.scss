@@ -1,0 +1,11 @@
+@use "../../../common/variables.scss" as v;
+
+.width_max_content{
+    width: max-content;
+}
+.letter_space{
+    font-size: 14px;
+    letter-spacing: 0.4px;
+    padding: 0;
+    margin: 0;
+}

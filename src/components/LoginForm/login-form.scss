@@ -1,0 +1,19 @@
+@use "../../common/variables.scss" as v;
+.loginform__main__container{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../../images/main-bg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+    .form__container{
+        padding: 50px 10px;
+        form{
+            margin: 0px auto;
+            max-width: 400px;
+            width: 100%;
+            background-color: rgba(v.$white, $alpha: 0.8);
+            border-radius: 6px;
+        }
+    }
+}

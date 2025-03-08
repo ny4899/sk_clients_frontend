@@ -1,0 +1,19 @@
+@use "../../../common/variables.scss" as v;
+.modal_table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid v.$lightGray;
+    th, td {
+        text-align: left;
+        padding: 8px;
+        border: 1px solid rgb(199, 199, 199);
+    }
+    tr:nth-child(even){background-color: v.$lightGray}
+    
+    th {
+      background-color: v.$darkGray;
+      color: v.$white;
+    }
+  }
+  
+  

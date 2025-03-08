@@ -1,0 +1,17 @@
+.modal_table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid rgb(240, 240, 240);
+}
+.modal_table th, .modal_table td {
+  text-align: left;
+  padding: 8px;
+  border: 1px solid rgb(199, 199, 199);
+}
+.modal_table tr:nth-child(even) {
+  background-color: rgb(240, 240, 240);
+}
+.modal_table th {
+  background-color: rgb(138, 138, 138);
+  color: #ffffff;
+}/*# sourceMappingURL=modal.css.map */

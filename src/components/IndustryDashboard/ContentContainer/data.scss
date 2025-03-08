@@ -1,0 +1,45 @@
+@use "../../../common/variables.scss" as v;
+
+.table__container {
+  overflow-x: scroll;
+  table {
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    td,
+    th {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+    tr:nth-child(even) {
+      background-color: v.$lightGray;
+    }
+    tr:hover {
+      background-color: v.$gray;
+    }
+    th {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: left;
+      background-color: v.$darkGray;
+      color: white;
+    }
+    .table_head {
+      background-color: rgb(239, 255, 238);
+      color: black;
+    }
+    tbody {
+      tr {
+        .online {
+          color: red;
+        }
+        .offline {
+          color: green;
+        }
+        .disabled {
+          color: v.$black;
+        }
+      }
+    }
+  }
+}
