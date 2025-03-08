@@ -39,86 +39,86 @@ const Info = ({ industries, devices, status, path, headingTxt }) => {
   const navigate = useNavigate();
   return (
     <>
-      <div className="col-sm-4 pt-2">
-        <div className=" rounded-2 p-3 bg-light infocontainer position-relative shadow">
-          <span
+      <div className="col-12 pt-2">
+        <div className=" rounded-2 p-3 bg-light infocontainer position-relative ">
+          {/* <span
             className="position-absolute top-0 start-50 translate-middle badge rounded-pill bg-white text-dark border border-dark "
             style={{ letterSpacing: "1.5px" }}
           >
             {headingTxt}
             <span className="visually-hidden">unread messages</span>
-          </span>
+          </span> */}
           <h5 className="mt-1">
-            Industries : <span>{industries}</span>
+            Total Industries ( <span>{industries} )</span>
           </h5>
           {headingTxt === "ALL" ? (
             <p className="m-0">
-              Monitoring Stations: <span>{devices}</span>
+              Monitoring Stations ( <span>{devices} )</span>
             </p>
           ) : (
             <></>
           )}
-          <div className="row g-2 mt-1">
+          <div className="row g-3 mt-1">
             {mainStatus?.online ? (
-              <div className="col-6" key={nanoid()}>
+              <div className="col-4" key={nanoid()}>
                 <div
-                  className={`rounded-1 border-3 border-start border-${getStartBorderColor(
+                  className={`rounded-1 border-1 border border-${getStartBorderColor(
                     "online"
-                  )} bg-light py-0 px-2 h-100`}
+                  )} bg-light py-2 px-2 h-100`}
                 >
-                  <p className="m-0" style={{ letterSpacing: 0.6 }}>
-                    Online : {mainStatus?.online}
+                  <p className="m-0 text-center" style={{ letterSpacing: 0.6 }}>
+                    Online Stations ( {mainStatus?.online} )
                   </p>
                 </div>
               </div>
             ) : null}
              {mainStatus?.offline ? (
-              <div className="col-6" key={nanoid()}>
+              <div className="col-4" key={nanoid()}>
                 <div
-                  className={`rounded-1 border-3 border-start border-${getStartBorderColor(
+                  className={`rounded-1 border-1 border border-${getStartBorderColor(
                     "offline"
-                  )} bg-light py-0 px-2 h-100`}
+                  )} bg-light py-2 px-2 h-100`}
                 >
-                  <p className="m-0" style={{ letterSpacing: 0.6 }}>
-                    Offline : {mainStatus?.offline}
+                  <p className="m-0 text-center" style={{ letterSpacing: 0.6 }}>
+                    Offline Stations ( {mainStatus?.offline} )
                   </p>
                 </div>
               </div>
             ) : null}
             {mainStatus?.delay ? (
-              <div className="col-6" key={nanoid()}>
+              <div className="col-4" key={nanoid()}>
                 <div
-                  className={`rounded-1 border-3 border-start border-${getStartBorderColor(
+                  className={`rounded-1 border-1 border border-${getStartBorderColor(
                     "delay"
-                  )} bg-light py-0 px-2 h-100`}
+                  )} bg-light py-2 px-2 h-100`}
                 >
-                  <p className="m-0" style={{ letterSpacing: 0.6 }}>
-                    Delay : {mainStatus?.delay}
+                  <p className="m-0 text-center" style={{ letterSpacing: 0.6 }}>
+                    Delay Stations ( {mainStatus?.delay} )
                   </p>
                 </div>
               </div>
             ) : null}
-             {mainStatus?.inactive ? (
+             {/* {mainStatus?.inactive ? (
               <div className="col-6" key={nanoid()}>
                 <div
-                  className={`rounded-1 border-3 border-start border-${getStartBorderColor(
+                  className={`rounded-1 border-1 border border-${getStartBorderColor(
                     "inactive"
-                  )} bg-light py-0 px-2 h-100`}
+                  )} bg-light py-2 px-2 h-100`}
                 >
-                  <p className="m-0" style={{ letterSpacing: 0.6 }}>
-                    Inactive : {mainStatus?.inactive}
+                  <p className="m-0 text-center" style={{ letterSpacing: 0.6 }}>
+                    Inactive Stations ( {mainStatus?.inactive} )
                   </p>
                 </div>
               </div>
-            ) : null}
+            ) : null} */}
             {Object.entries(restStatus).map(([keyName, keyValue]) => (
               <div className="col-6" key={nanoid()}>
                 <div
-                  className={`rounded-1 border-3 border-start border-${getStartBorderColor(
+                  className={`rounded-1 border-1 border border-${getStartBorderColor(
                     keyName
                   )} bg-light py-0 px-2 h-100`}
                 >
-                  <p className="m-0" style={{ letterSpacing: 0.6 }}>
+                  <p className="m-0 text-center" style={{ letterSpacing: 0.6 }}>
                     {getCamelCaseStr(keyName.split("_").join(" "))} : {keyValue}
                   </p>
                 </div>
@@ -128,9 +128,9 @@ const Info = ({ industries, devices, status, path, headingTxt }) => {
           {path ? (
             <button
               onClick={() => navigate(path)}
-              className="btn btn-sm btn-primary mt-3 w-100"
+              className="btn btn-dark mt-3 w-100"
             >
-              More info
+              Detailed Status
             </button>
           ) : (
             <></>
@@ -151,7 +151,7 @@ const InfoContainer = ({ allIndustriesinfo, pathStr }) => {
         path={"industrystatus-report"}
         headingTxt={"ALL"}
       />
-      <Info
+      {/* <Info
         industries={allIndustriesinfo.industriesOnCpcb}
         devices={allIndustriesinfo.devicesOnCpcb}
         status={allIndustriesinfo.more_data_cpcb}
@@ -164,7 +164,7 @@ const InfoContainer = ({ allIndustriesinfo, pathStr }) => {
         status={allIndustriesinfo.more_data_spcb}
         path={"industrystatus-report-spcb"}
         headingTxt={"SPCB"}
-      />
+      /> */}
     </>
   ) : (
     <>
@@ -175,7 +175,7 @@ const InfoContainer = ({ allIndustriesinfo, pathStr }) => {
         path={""}
         headingTxt={"ALL"}
       />
-      <Info
+      {/* <Info
         industries={"---"}
         devices={"---"}
         status={{ online: "---", offline: "---" }}
@@ -188,7 +188,7 @@ const InfoContainer = ({ allIndustriesinfo, pathStr }) => {
         status={{ online: "---", offline: "---" }}
         path={""}
         headingTxt={"SPCB"}
-      />
+      /> */}
     </>
   );
 };

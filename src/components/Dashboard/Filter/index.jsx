@@ -109,14 +109,14 @@ const Filter = ({
 
   return (
     <>
-      <div className="p-2 bar_border">
+      <div className="p-2">
         <div className="row g-2">
           <div className="col-sm-4">
             {allState ? (
               <Select
                 ref={selectedState}
                 options={gnerateLebalAndValues(allState)}
-                placeholder="Select State"
+                placeholder="Choose State"
                 onChange={(e) => {
                   selectedCategory.current.value = "";
                   selectedState.current.value = e.value;
@@ -132,7 +132,7 @@ const Filter = ({
                 defaultValue={""}
                 aria-label="Default select example"
               >
-                <option value="">Loading...</option>
+                <option value="">Fetching...</option>
               </select>
             )}
           </div>
@@ -141,7 +141,7 @@ const Filter = ({
               <Select
                 ref={selectedCategory}
                 options={gnerateLebalAndValues(allCategoriesFiltered)}
-                placeholder="Select Category"
+                placeholder="Choose Category"
                 onChange={(e) => {
                   selectedCategory.current.value = e.value;
                   setFilterSelectedCategory(selectedCategory.current.value);
@@ -155,7 +155,7 @@ const Filter = ({
                 defaultValue={""}
                 aria-label="Default select example"
               >
-                <option value="">Loading...</option>
+                <option value="">Fetching...</option>
               </select>
             )}
           </div>
@@ -171,7 +171,7 @@ const Filter = ({
                     };
                   }
                 )}
-                placeholder="Select Industry"
+                placeholder="Choose Industry"
                 onChange={(e) => {
                   selectedIndustry.current.value = e.value;
                   handleSelectedIndustry();
@@ -184,7 +184,7 @@ const Filter = ({
                 defaultValue={""}
                 aria-label="Default select example"
               >
-                <option value="">Loading...</option>
+                <option value="">Fetching...</option>
               </select>
             )}
           </div>

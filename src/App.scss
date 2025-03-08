@@ -30,9 +30,19 @@
 
 .sidebar__wrapper {
   width: v.$sideBarWidth;
-  height: calc(100vh - v.$navHeight );
+  // height: calc(100vh - v.$navHeight );
+  height: 100vh;
   overflow-y: scroll;
   @include scrollbars;
+}
+
+.sidebar__wrapper img {
+  width: 100%;
+}
+
+.sidebar__wrapper .username_txt {
+  text-align: center;
+  margin-bottom: 20px;
 }
 
 .linkStyle {
@@ -44,17 +54,19 @@
 
 .main__wrapper {
   width: calc(100% - v.$sideBarWidth);
-  height: calc(100vh - v.$navHeight);
+  // height: calc(100vh - v.$navHeight);
+  height: 100vh;
   overflow-y: scroll;
-  background-color: v.$bodybg ;
+  background-color: v.$bodybg;
   @include scrollbars;
 }
 
 .main__wrapper__client {
   width: 100%;
-  height: calc(100vh - v.$navHeight);
+  // height: calc(100vh - v.$navHeight);
+  height: 100vh;
   overflow-y: scroll;
-  background-color: v.$bodybg ;
+  background-color: v.$bodybg;
   @include scrollbars;
 }
 
@@ -62,7 +74,7 @@
   width: calc(100%);
 }
 
-// data container 
+// data container
 .data__wrapper {
   background-color: v.$white;
 }

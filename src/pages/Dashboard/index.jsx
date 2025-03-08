@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Filter from "../../components/Dashboard/Filter";
-import Nav from "../../components/Dashboard/Nav";
+// import Nav from "../../components/Dashboard/Nav";
 import InfoContainer from "../../components/Dashboard/InfoContainer";
 import axios from "axios";
 import { useGlobalContext } from "../../context";
@@ -195,10 +195,10 @@ const Dashboard = () => {
   }, [industriesData, allDevices, selectedIndustriesId]);
 
   return (
-    <div className="container-fluid p-3">
+    <div className="container-fluid">
       <div className="row g-3">
         <div className="col-12">
-          <div className="row g-3">
+          <div className="row">
             <Filter
               industriesNames={industriesNames}
               allState={allState}
@@ -221,11 +221,11 @@ const Dashboard = () => {
             />
           </div>
         </div>
-        <div className="col-12">
+        {/* <div className="col-12">
           <div className="p-2 p-sm-3 bg-white shadow">
             <Nav />
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );

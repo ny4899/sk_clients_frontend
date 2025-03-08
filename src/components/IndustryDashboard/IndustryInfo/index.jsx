@@ -135,7 +135,7 @@ const IndustryInfo = ({ industriesData }) => {
                 );
               })}
             </h6>
-            <p>
+            {/* <p>
               <FontAwesomeIcon icon={faLocation} className="me-1" />
               <span>
                 {industriesData.state
@@ -149,38 +149,12 @@ const IndustryInfo = ({ industriesData }) => {
                   ? "( Ganga basin )"
                   : "no information about ganga basin"}
               </span>
-            </p>
+            </p> */}
           </div>
         </div>
         <div className="col-4">
           <div className="d-flex flex-column align-items-end">
             <div style={{ width: "max-content" }}>
-              <div
-                className={
-                  cpcbColor === "green"
-                    ? "light_green_bg rounded-1 py-1 px-2 w-100 mb-2"
-                    : cpcbColor === "yellow"
-                    ? "yellow_bg rounded-1 py-1 px-2 w-100 mb-2"
-                    : "tomato_red_bg rounded-1 py-1 px-2 w-100 mb-2"
-                }
-              >
-                <h6 className="letter_space text-light inline-block m-0">
-                  {`CPCB: ${cpcbTime}`}
-                </h6>
-              </div>
-              <div
-                className={
-                  spcbColor === "green"
-                    ? "light_green_bg rounded-1 py-1 px-2 w-100"
-                    : spcbColor === "yellow"
-                    ? "yellow_bg rounded-1 py-1 px-2 w-100"
-                    : "tomato_red_bg rounded-1 py-1 px-2 w-100"
-                }
-              >
-                <h6 className="letter_space text-light inline-block m-0">
-                  {`SPCB: ${spcbTime}`}
-                </h6>
-              </div>
             </div>
           </div>
         </div>

@@ -29,6 +29,7 @@
         }
         .active {
           background-color: v.$gray;
+          border-right: 3px solid v.$black;
           &:hover {
             background-color: v.$gray;
           }
@@ -52,6 +53,7 @@
           }
           .active {
             background-color: v.$gray;
+            border-right: 3px solid v.$black;
             &:hover {
               background-color: v.$gray;
             }

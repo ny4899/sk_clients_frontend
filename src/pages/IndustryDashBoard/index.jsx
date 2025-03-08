@@ -4,7 +4,7 @@ import { useParams, useLocation } from "react-router-dom";
 import axios from "axios";
 
 import Filter from "../../components/Dashboard/Filter";
-import Nav from "../../components/IndustryDashboard/Nav";
+// import Nav from "../../components/IndustryDashboard/Nav";
 import IndustryInfo from "../../components/IndustryDashboard/IndustryInfo";
 import LoggerDataBox from "../../components/IndustryDashboard/LoggerDataBox";
 import Spinner from "../../components/Spinner";
@@ -230,12 +230,12 @@ const IndustryDashboard = () => {
 
   return (
     <div className="container-fluid p-3">
-      {!isUserSubscribtion(userSubscribtion).subscribtion ? (
+      {/* {!isUserSubscribtion(userSubscribtion).subscribtion ? (
         <Model
           txt={"Renew your account"}
           data={isUserSubscribtion(userSubscribtion).data}
         />
-      ) : null}
+      ) : null} */}
 
       <div className="row g-3">
         {userType !== "client" ? (
@@ -343,11 +343,11 @@ const IndustryDashboard = () => {
             </div>
           </>
         )}
-        <div className="col-12">
+        {/* <div className="col-12">
           <div className="p-2 p-sm-3 bg-white shadow mt-2">
             <Nav />
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
