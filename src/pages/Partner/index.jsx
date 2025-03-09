@@ -73,7 +73,7 @@ const Partners = () => {
             <PageHeading txt={"Partners"} />
           </div>
           <div className="d-flex">
-            <Link to="/createNewPartner" className="btn btn-sm btn-primary">
+            {/* <Link to="/createNewPartner" className="btn btn-sm btn-primary">
               Create New
             </Link>
             <Link
@@ -82,7 +82,7 @@ const Partners = () => {
               to="/updatePartner"
             >
               <FontAwesomeIcon icon={faPen} />
-            </Link>
+            </Link> */}
           </div>
         </div>
       </div>
@@ -90,7 +90,7 @@ const Partners = () => {
         <div className="data__wrapper p-3">
           <div className="row g-3 ">
             <div className="col-12">
-              <div className="row g-0">
+              {/* <div className="row g-0">
                 <div className="col-12 ">
                   <div className="d-flex justify-content-between ">
                     <div style={{ maxWidth: "350px" }}>
@@ -174,7 +174,7 @@ const Partners = () => {
                     ))}
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
             <div className="col-12">
               <div>

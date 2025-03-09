@@ -74,7 +74,7 @@ const Parameters = () => {
             <PageHeading txt={"Parameters"} />
           </div>
           <div className="d-flex">
-            <Link to="/createNewParameter" className="btn btn-sm btn-primary">
+            {/* <Link to="/createNewParameter" className="btn btn-sm btn-primary">
               Create New
             </Link>
             <Link
@@ -90,7 +90,7 @@ const Parameters = () => {
               to="/deleteParameter"
             >
               <FontAwesomeIcon icon={faTrash} />
-            </Link>
+            </Link> */}
           </div>
         </div>
       </div>
@@ -98,7 +98,7 @@ const Parameters = () => {
         <div className="data__wrapper p-3">
           <div className="row g-3 ">
             <div className="col-12">
-              <div className="row g-0">
+              {/* <div className="row g-0">
                 <div className="col-12 ">
                   <div className="d-flex justify-content-between ">
                     <div style={{ maxWidth: "350px" }}>
@@ -182,7 +182,7 @@ const Parameters = () => {
                     ))}
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
             <div className="col-12">
               <div>

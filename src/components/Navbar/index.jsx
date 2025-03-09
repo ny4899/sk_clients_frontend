@@ -254,7 +254,7 @@ const Navbar = ({ toggleClass, setUser }) => {
                 <></>
               )}
 
-              <div className="accordion-item border-0">
+              {/* <div className="accordion-item border-0">
                 <h2 className="accordion-header">
                   <NavLink
                     to="/offlineAlerts"
@@ -268,9 +268,9 @@ const Navbar = ({ toggleClass, setUser }) => {
                     Offline alerts
                   </NavLink>
                 </h2>
-              </div>
+              </div> */}
 
-              <div className="accordion-item border-0">
+              {/* <div className="accordion-item border-0">
                 <h2 className="accordion-header">
                   <NavLink
                     to="/delayAlerts"
@@ -284,9 +284,9 @@ const Navbar = ({ toggleClass, setUser }) => {
                     Delay alerts
                   </NavLink>
                 </h2>
-              </div>
+              </div> */}
 
-              <div className="accordion-item border-0">
+              {/* <div className="accordion-item border-0">
                 <h2 className="accordion-header">
                   <NavLink
                     to="/exceededParameterAlerts"
@@ -300,9 +300,9 @@ const Navbar = ({ toggleClass, setUser }) => {
                     Parameter exceeded alerts
                   </NavLink>
                 </h2>
-              </div>
+              </div> */}
 
-              <div className="accordion-item border-0">
+              {/* <div className="accordion-item border-0">
                 <h2 className="accordion-header">
                   <NavLink
                     to="/deceedParameterAlerts"
@@ -316,7 +316,7 @@ const Navbar = ({ toggleClass, setUser }) => {
                     Parameter deceeded alerts
                   </NavLink>
                 </h2>
-              </div>
+              </div> */}
 
               <div className="accordion-item border-0">
                 <h2 className="accordion-header">
@@ -362,7 +362,7 @@ const Navbar = ({ toggleClass, setUser }) => {
               )}
               {userType === "admin" ? (
                 <>
-                  <div className="accordion-item border-0">
+                  {/* <div className="accordion-item border-0">
                     <h2 className="accordion-header">
                       <NavLink
                         to="/parameters"
@@ -376,8 +376,8 @@ const Navbar = ({ toggleClass, setUser }) => {
                         Parameters
                       </NavLink>
                     </h2>
-                  </div>
-                  <div className="accordion-item border-0">
+                  </div> */}
+                  {/* <div className="accordion-item border-0">
                     <h2 className="accordion-header">
                       <NavLink
                         to="/partners"
@@ -391,7 +391,7 @@ const Navbar = ({ toggleClass, setUser }) => {
                         Partners
                       </NavLink>
                     </h2>
-                  </div>
+                  </div> */}
                 </>
               ) : (
                 <></>
@@ -417,7 +417,7 @@ const Navbar = ({ toggleClass, setUser }) => {
               ) : (
                 <></>
               )}
-              {userType === "admin" ? (
+              {/* {userType === "admin" ? (
                 <div className="accordion-item border-0">
                   <h2 className="accordion-header" id="headingOne">
                     <button
@@ -508,8 +508,8 @@ const Navbar = ({ toggleClass, setUser }) => {
                 </div>
               ) : (
                 <></>
-              )}
-              {userType === "admin" ? (
+              )} */}
+              {/* {userType === "admin" ? (
                 <div className="accordion-item border-0">
                   <h2 className="accordion-header" id="headingThree">
                     <button
@@ -545,7 +545,7 @@ const Navbar = ({ toggleClass, setUser }) => {
                 </div>
               ) : (
                 <></>
-              )}
+              )} */}
 
 <div className="accordion-item border-0">
                 <h2 className="accordion-header">

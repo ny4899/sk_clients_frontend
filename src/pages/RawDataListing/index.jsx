@@ -163,7 +163,7 @@ const RawDataListing = () => {
                           <option value={100000}>100000</option>
                         </select>
                       </div>
-                      <div>
+                      {/* <div>
                         <button
                           className="btn btn-sm mx-2"
                           onClick={() => setRefresh(`${Date.now()}`)}
@@ -212,11 +212,11 @@ const RawDataListing = () => {
                             </li>
                           </ul>
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </div>
-                <div className="col-12">
+                {/* <div className="col-12">
                   <div className="d-flex my-2 flex-wrap">
                     <div>
                       <IndeterminateCheckbox
@@ -238,7 +238,7 @@ const RawDataListing = () => {
                       </div>
                     ))}
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
             <div className="col-12">
