@@ -255,7 +255,7 @@ const Alerts = ({ alertType, heading }) => {
         </div>
       </div>
       <div className="col-12">
-        <div className="data__wrapper p-3 shadow-sm">
+        <div className="data__wrapper p-3">
           <div className="row g-3 ">
             <AlertTable alertType={alertType} page={page} setTotalPage={setTotalPage} />
             <div className="col-12">

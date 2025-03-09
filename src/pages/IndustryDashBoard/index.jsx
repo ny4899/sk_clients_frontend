@@ -294,7 +294,7 @@ const IndustryDashboard = () => {
                     position: "-webkit-sticky",
                     position: "sticky",
                     top: 0,
-                    backgroundColor: "#f0f5ff",
+                    // backgroundColor: "#f0f5ff",
                   }}
                 >
                   {industriesData ? (

@@ -95,7 +95,7 @@ const Parameters = () => {
         </div>
       </div>
       <div className="col-12">
-        <div className="data__wrapper p-3 shadow-sm">
+        <div className="data__wrapper p-3">
           <div className="row g-3 ">
             <div className="col-12">
               <div className="row g-0">

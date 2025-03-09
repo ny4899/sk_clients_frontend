@@ -8,15 +8,15 @@ const LoggerDataBox = ({ data }) => {
 
   return (
     <div className="col-6 col-lg-3 col-xxl-2">
-      <div className="box_bg rounded-1 p-2 shadow h-100">
+      <div className="box_bg  bg-light h-100">
         <div
-          className={`value_bar rounded-1 ${
+          className={`value_bar  ${
             typeof data.value !== "number" ||
             data.value < data.min_std_value ||
             data.value > data.max_std_value
               ? "tomato_red_bg"
               : "light_green_bg"
-          } py-2 mb-3`}
+          } py-2`}
         >
           <h3>
             {typeof data.value === "number"
@@ -32,15 +32,15 @@ const LoggerDataBox = ({ data }) => {
             </span>
           </h3>
         </div>
-        <div className="px-1">
+        <div className="px-1 my-2">
           <h5>{data.parameter_name.split("_").join(" ")}</h5>
           <p>{data.station_name}</p>
-          <p>
+          {/* <p>
             Std Val :{" "}
             <span>{`${data.min_std_value} - ${data.max_std_value}`}</span>
-          </p>
+          </p> */}
           <p>
-            Last recvd :{" "}
+            {/* Last recvd :{" "} */}
             <span>
               {lastRecived && typeof data.value === "number"
                 ? lastRecived

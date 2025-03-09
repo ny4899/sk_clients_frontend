@@ -14,7 +14,8 @@ import "./index.scss";
 //   window.location.reload();
 // }, 1000 * 30);
 // window.apiURL = "https://test-api.accesssurveykshan.co.in/api/v1";
-window.apiURL = "http://localhost:8000/api/v1";
+// window.apiURL = "http://localhost:8000/api/v1";
+window.apiURL = "https://jbrgnxs2-8000.inc1.devtunnels.ms/api/v1";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <AppProvider>
