@@ -2,6 +2,7 @@ import React from "react";
 import "./LoggerDataBox.scss";
 
 const LoggerDataBox = ({ data }) => {
+  console.log(data)
   let lastRecived = "";
   if (data.created_at)
     lastRecived = data.created_at.split("+")[0].split("T").join(" ");
@@ -33,14 +34,17 @@ const LoggerDataBox = ({ data }) => {
           </h3>
         </div>
         <div className="px-1 my-2">
-          <h5>{data.parameter_name.split("_").join(" ")}</h5>
-          <p>{data.station_name}</p>
-          {/* <p>
+          <h5><span style={{fontWeight:400}}>{data.station_name}</span> - {data.parameter_name.split("_").join(" ")}</h5>
+          <p>
             Std Val :{" "}
             <span>{`${data.min_std_value} - ${data.max_std_value}`}</span>
-          </p> */}
+          </p>
           <p>
-            {/* Last recvd :{" "} */}
+            Range :{" "}
+            <span>{`0 - 14`}</span>
+          </p>
+          <p>
+            Last received :{" "}
             <span>
               {lastRecived && typeof data.value === "number"
                 ? lastRecived

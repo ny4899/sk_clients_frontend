@@ -316,7 +316,7 @@ const IndustryDashboard = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="col-3">
+                    {/* <div className="col-3">
                       <div className="box_bg rounded-1 py-2 shadow">
                         <div className="p-4">
                           <Spinner />
@@ -336,7 +336,7 @@ const IndustryDashboard = () => {
                           <Spinner />
                         </div>
                       </div>
-                    </div>
+                    </div> */}
                   </>
                 )}
               </div>
